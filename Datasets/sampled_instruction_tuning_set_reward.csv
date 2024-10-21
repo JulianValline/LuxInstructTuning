@@ -1,0 +1,1001 @@
+instruction,response,text,model_response
+What is the brightest star in Dorado?,"α Doradus, the brightest star in Dorado, is 200 light years away from us. The star is slightly white and belongs to the spectral class A0 III.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the brightest star in Dorado? 
+
+###Response: The α Doradus, the brightest star in the Dorado, is 200 light years away from us. The star is slightly white and belongs to the spectral class A0 III.","helpfulness:1.84375,correctness:1.6640625,coherence:3.546875,complexity:1.0078125,verbosity:0.73046875"
+"What happened to the Edict of Nantes, after Henri IV. died?","The Edict of Nantes was unfortunately not ""perpétuel et irrevocable"", which Louis XIV. evidenced by the Edict of Fontainebleau in 1685.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What happened to the Edict of Nantes, after Henri IV. died? 
+
+###Response: The Edict of Nantes was unfortunately not ""perpétuel et irrevocable"", which Louis XIV. evidenced by the Edict of Fontainebleau in 1685.","helpfulness:2.75,correctness:2.890625,coherence:3.765625,complexity:1.1171875,verbosity:0.4765625"
+When did the devolution war start and how did it end?,"The war of devolution began in the spring of 1667, when Louis XIV. sent a declaration to the Spanish court, and ended on May 2, 1668, when the Peace Treaty of Oachen was signed.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did the devolution war start and how did it end? 
+
+###Response: The War of Devolution began in the spring of 1667, when Louis XIV. sent a declaration to the Spanish court, and ended on May 2, 1668, when the peace treaty of Oachen was signed.","helpfulness:2.578125,correctness:2.75,coherence:3.6875,complexity:1.1171875,verbosity:0.75390625"
+When and where did Max Ophüls die?,"Max Ophüls died on March 26, 1957 in Hamburg.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When and where did Max Ophüls die? 
+
+###Response: Max Ophüls died on March 26, 1957 in Hamburg.","helpfulness:3.171875,correctness:3.21875,coherence:3.984375,complexity:0.66796875,verbosity:0.484375"
+What happened to the Schumacher building after the police museum was installed there?,"The police museum of the non-profit organization 'Le musée de la police grand-ducale – le gardien de la mémoire' was installed in the building in 2010. But in 2017, the museum was closed because the building is dilapidated in places.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What happened to the Schumacher building after the police museum was installed there? 
+
+###Response: The police museum of the non-profit organization 'Le musée de la police grand-ducale – le gardien de la mémoire' was installed in the building in 2010. But in 2017, the museum was closed because the building is dilapidated in places.","helpfulness:2.890625,correctness:3.078125,coherence:3.75,complexity:1.140625,verbosity:1.1640625"
+What are the essential amino acids? List the 9 amino acids.,"The essential amino acids are: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, thereonine, tryptophan and valine.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the essential amino acids? List the 9 amino acids. 
+
+###Response: The essential amino acids are: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, thereonine, tryptophan and valine.","helpfulness:3.46875,correctness:3.5625,coherence:3.859375,complexity:1.078125,verbosity:0.76953125"
+Give me the names of the former municipalities that merged in 1977 to form the municipality of Gouvy.,"The former municipalities of Beho, Bovigny, Cherain, Limerlé and Montleban merged in 1977 to form the municipality of Gouvy.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the names of the former municipalities that merged in 1977 to form the municipality of Gouvy. 
+
+###Response: The former municipalities of Beho, Bovigny, Cherain, Limerlé and Montleban merged in 1977 to form the municipality of Gouvy.","helpfulness:3.78125,correctness:3.796875,coherence:4.0,complexity:1.15625,verbosity:0.984375"
+Give me the area of the Polvermillen and what percentage of the area of the city of Luxembourg is it.,"The Polvermillen has an area of 24.82 ha, which is 0.48% of the area of the city of Luxembourg.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the area of the pole mill and what percentage of the area of the city of Luxembourg is it. 
+
+###Response: The Polvermillen has an area of 24.82 ha, which is 0.48% of the area of the city of Luxembourg.","helpfulness:2.328125,correctness:2.515625,coherence:3.84375,complexity:1.15625,verbosity:0.81640625"
+When did Victor Tedesco start his prison sentence?,After the failed expedition of Exilbelsch in the revolutionary year 1848.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Victor Tedesco start his prison sentence? 
+
+###Response: After the failed expedition of Exilbelsch in the revolutionary year 1848.","helpfulness:0.02294921875,correctness:-0.1982421875,coherence:2.78125,complexity:0.310546875,verbosity:0.27734375"
+How many films does the Cinémathèque de la Ville de Luxembourg have?,"The Cinémathèque de la Ville de Luxembourg provides over 13,000 films, including 10,000 feature films.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many films does the Cinémathèque de la Ville de Luxembourg have? 
+
+###Response: The Cinémathèque de la Ville de Luxembourg provides over 13,000 films, including 10,000 feature films.","helpfulness:2.890625,correctness:2.859375,coherence:3.9375,complexity:0.91796875,verbosity:0.71484375"
+How was Leo VIII. for the second time to the Pope?,"Leo VIII. became pope for the second time after Otto I had deposed Benedict V, and Leo VIII. came back to the throne.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How was Leo VIII. for the second time to the Pope? 
+
+###Response: Leo VIII. became pope for the second time after Otto I had deposed Benedict V, and Leo VIII. came back to the throne.","helpfulness:0.90234375,correctness:1.1328125,coherence:3.640625,complexity:0.7109375,verbosity:0.51171875"
+What kind of competitions does the Music Academy Franz Liszt Weimar organize?,"The Music Academy Franz Liszt Weimar organizes, among other things, the 'Louis Spohr Wettbewerb' for young violinists, the 'International Franz Liszt Wettbewerb' for young pianists, the 'Bach-Liszt Wettbewerb' for organ or the 'Bundeswettbewerb Schulpraktisches Klavierspiel Grotrian-Steinweg' for school practical piano.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What kind of competitions does the Music Academy Franz Liszt Weimar organize? 
+
+###Response: The Music Academy Franz Liszt Weimar organizes, among other things, the 'Louis Spohr Competition' for young violinists, the 'International Franz Liszt Competition' for young pianists, the 'Bach-Liszt Competition' for organ or the 'Bundeswettbewerb Schulpraktisches Klavierspiel' Grotrian-Steinweg' for school practical piano.","helpfulness:2.796875,correctness:2.953125,coherence:3.65625,complexity:1.296875,verbosity:1.0078125"
+What was Martin Schwarzschild's main area of work?,His main area of work was star development.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was Martin Schwarzschild's main area of work? 
+
+###Response: His main area of work was star development.","helpfulness:2.890625,correctness:2.984375,coherence:3.90625,complexity:0.74609375,verbosity:0.296875"
+When did Mathias Thinnes retire?,"On September 1, 1978","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Mathias Thinnes retire? 
+
+###Response: September 1, 1978","helpfulness:1.0546875,correctness:0.87890625,coherence:3.484375,complexity:0.318359375,verbosity:0.193359375"
+Give the history of the cathedral Notre-Dame of Luxembourg.,"The Cathedral of Notre-Dame of Luxembourg was built between 1613 and 1621 by the Jesuits next to their school, the college. From 1935 to 1938 it was expanded to its present size. The name 'Notre-Dame' was given to the church in 1844, the same year when the maîtrise was also founded. It became a cathedral in 1870, when Luxembourg became its own diocese.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give the history of the Cathedral Notre-Dame of Luxembourg. 
+
+###Response: The Notre-Dame Cathedral of Luxembourg was built between 1613 and 1621 by the Jesuits next to their school, the college. From 1935 to 1938 it was expanded to its present size. The name 'Notre-Dame' was given to the church in 1844, the same year when the maîtrise was also founded. It became a cathedral in 1870, when Luxembourg became its own diocese.","helpfulness:2.984375,correctness:3.203125,coherence:3.734375,complexity:1.34375,verbosity:1.1875"
+"Give me the name of the Luxembourgish doom metal band, which was founded in August 2012 by Maxime Weber and Nicholas O'Connell.",plague wielder,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the name of the Luxembourgish doom metal band, which was founded in August 2012 by Maxime Weber and Nicholas O'Connell. 
+
+###Response: Plaguewielder","helpfulness:0.7265625,correctness:0.65234375,coherence:3.15625,complexity:0.333984375,verbosity:0.16796875"
+What was the devolution war and how did it play out?,"The War of Devolution was a military conflict between Spain and the Kingdom of France that lasted from 1667-1668. It was triggered when King Louis XIV. of France occupied parts of the Spanish Netherlands, after the Spanish king Felipe IV. died in 1665. The war ended with the signing of the Peace Treaty of Oachen on May 2, 1668, in which Spain had to cede a number of territories.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the devolution war and how did it play out? 
+
+###Response: The Devolution War was a military conflict between Spain and the French Kingdom that lasted from 1667-1668. It was triggered when King Louis XIV. of France occupied parts of the Spanish Netherlands, after the Spanish king Felipe IV. died in 1665. The war ended with the signing of the Peace Treaty of Oachen on May 2, 1668, in which Spain had to cede a number of territories.","helpfulness:3.078125,correctness:3.25,coherence:3.75,complexity:1.4609375,verbosity:1.125"
+What were the goals of King Louis XIV. during the devolution war?,"The goals of King Louis XIV. were to expand territorially and strengthen its hegemony in Europe. He argued that parts of the Spanish Netherlands belonged to him because his wife, Maria Teresa, was Felipe's daughter. He also tried to divide and conquer the Spanish Netherlands.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What were the goals of King Louis XIV. during the devolution war? 
+
+###Response: The goals of King Louis XIV. were to expand territorially and strengthen its hegemony in Europe. He argued that parts of the Spanish Netherlands belonged to him because his wife, Maria Teresa, was Felipe's daughter. He also tried to divide and conquer the Spanish Netherlands.","helpfulness:3.109375,correctness:3.25,coherence:3.78125,complexity:1.25,verbosity:0.90625"
+Given the date of the dedication of the cathedral.,"On December 8, 1963, Bishop Léon Lommel solemnly consecrated the cathedral.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Enter the date of the dedication of the cathedral. 
+
+###Response: On December 8, 1963, Bishop Léon Lommel solemnly consecrated the cathedral.","helpfulness:3.15625,correctness:3.46875,coherence:3.84375,complexity:0.796875,verbosity:0.6484375"
+What was the legitimacy of the Hellenistic monarchy?,"The Hellenistic monarchy was personal. This means that the king was the one who, through his own achievements, which were mostly military, and his behavior, came to the title 'Basileus' ('King'). A military victory was often the legitimate act of coming to the throne and ruling over a province or a state.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the legitimacy of the Hellenistic monarchy? 
+
+###Response: The Hellenistic monarchy was personal. This means that the king was the one who, through his own achievements, which were mostly military, and his behavior, came to the title 'Basileus' ('King'). A military victory was often the legitimate act of coming to the throne and ruling over a province or a state.","helpfulness:2.484375,correctness:2.515625,coherence:3.515625,complexity:1.359375,verbosity:0.8828125"
+When did Jean-Baptiste Kaeuffer leave his parish?,"Jean-Baptiste Kaeuffer left his parish on February 25, 1803 and returned to Echternach.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Jean-Baptiste Kaeuffer leave his parish? 
+
+###Response: Jean-Baptiste Kaeuffer left his parish on February 25, 1803 and returned to Echternach.","helpfulness:2.484375,correctness:2.765625,coherence:3.875,complexity:0.859375,verbosity:0.671875"
+When did Heinrich Rütten become the county councilor of Kreis Esch?,"On July 5, 1944.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Heinrich Rütten become the district governor of the district of Esch? 
+
+###Response: July 5, 1944.","helpfulness:0.6875,correctness:0.8984375,coherence:3.546875,complexity:0.4296875,verbosity:0.1630859375"
+What did Martin Schwarzschild along with Lyman Spitzer and James Van Allen develop?,"Together with Lyman Spitzer and James Van Allen, he developed the concept of a telescope carried into the stratosphere with a balloon.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did Martin Schwarzschild develop together with Lyman Spitzer and James Van Allen? 
+
+###Response: Together with Lyman Spitzer and James Van Allen, he developed the concept of a telescope carried into the stratosphere with a balloon.","helpfulness:2.9375,correctness:3.15625,coherence:3.765625,complexity:1.0546875,verbosity:0.64453125"
+"Give me the name of the resistance fighter who was born on January 2, 1921 in Nassogne.",Emile Benoit,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the name of the resistance fighter who was born on January 2, 1921 in Nassogne. 
+
+###Response: Émile Benoit","helpfulness:2.515625,correctness:2.578125,coherence:3.84375,complexity:0.64453125,verbosity:0.337890625"
+What was the nomination of Jean-Baptiste Kaeuffer as general field preacher?,"On August 11, 1791, Jean-Baptiste Kaeuffer was chosen by the State Citizen Corps as general field preacher to honor the Austrian governors-general of Luxembourg, Archduchess Maria-Christina and her husband, Duke Albert Casimir von Sachsen-Teschen.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the nomination of Jean-Baptiste Kaeuffer as general field preacher? 
+
+###Response: On August 11, 1791, Jean-Baptiste Kaeuffer was elected by the Stater Biergercorps as General-Feldprediger for the Austrian Governor-General of Luxembourg, Archduchess Maria-Christina and her husband, Duke Albert Casimir von Sachsen-Teschen , to honor.","helpfulness:1.390625,correctness:1.5703125,coherence:3.46875,complexity:1.140625,verbosity:0.98046875"
+When did Jean-Baptiste Kaeuffer swear the republican oath at the urging of the general vicariate of Trier?,Jean-Baptiste Kaeuffer swore the republican oath in October 1797 at the urging of the general vicariate of Trier.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Jean-Baptiste Kaeuffer swear the republican oath at the urging of the General Vicariate of Trier? 
+
+###Response: Jean-Baptiste Kaeuffer swore the republican oath in October 1797 at the urging of the general vicariate of Trier.","helpfulness:2.59375,correctness:2.65625,coherence:3.78125,complexity:1.125,verbosity:0.65234375"
+What became of the writer's home after the Jesuits had left it?,"In the writer's home, the artisan school, the École d'artisans de l'État, was installed, which developed from this school into the current Lycée des arts et métiers.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What became of the writer's home after the Jesuits had left it? 
+
+###Response: In the writer's home, the artisan school, École d'artisans de l'État, was installed, which developed from this school into the current Lycée des arts et métiers.","helpfulness:1.6015625,correctness:1.6015625,coherence:3.578125,complexity:0.97265625,verbosity:0.875"
+Give me a short biography of Marcel Gilles.,"Marcel Victor Gilles, born on June 29, 1945 in Schëtter and died on April 9, 2014, was a Luxembourg cycling journalist. He was the son of a bicycle dealer and, in addition to cycling, he was also interested in motor sports.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me a short biography of Marcel Gilles. 
+
+###Response: Marcel Victor Gilles, born on June 29, 1945 in Schëtter and died on April 9, 2014, was a Luxembourg cycling journalist. He was the son of a bicycle dealer and, in addition to cycling, he was also interested in motor sports.","helpfulness:3.015625,correctness:3.078125,coherence:3.859375,complexity:1.2109375,verbosity:1.1484375"
+What was Jayson Sherlock's goal when he founded Horde?,The goal of Jayson Sherlock was to create a Christian alternative to the strongly satanic and anti-Christian black metal scene of the early 90s.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was Jayson Sherlock's goal when he founded Horde? 
+
+###Response: Jayson Sherlock's goal was to create a Christian alternative to the strongly satanic and anti-Christian black metal scene of the early 90s.","helpfulness:3.203125,correctness:3.40625,coherence:3.90625,complexity:0.9453125,verbosity:0.83203125"
+How deep is Lake Erie on average?,Lake Eries is on average 19 meters deep under water.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How deep is Lake Erie on average? 
+
+###Response: Lake Eries is on average 19 meters deep under the water.","helpfulness:2.828125,correctness:2.765625,coherence:3.671875,complexity:0.68359375,verbosity:0.400390625"
+Where was the series Dawson's Creek filmed?,In Wilmington and Durham (North Carolina),"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Where was the series Dawson's Creek filmed? 
+
+###Response: In Wilmington and Durham (North Carolina)","helpfulness:2.796875,correctness:2.84375,coherence:3.484375,complexity:0.6015625,verbosity:0.41015625"
+What is the highest point in the municipality of Roussy-le-Village?,256 m,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the highest point in the municipality of Roussy-le-Village? 
+
+###Response: 256 m","helpfulness:1.078125,correctness:1.3125,coherence:3.21875,complexity:0.23828125,verbosity:-0.0018768310546875"
+Enter the list of the 20 (+ 1) amino acids that occur in proteins.,"The list of 20 (+ 1) amino acids that occur in proteins is: alanine, arginine, asparagine, aspartic acid, cysteine, glutamine, glutamic acid, glycine, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, proline, serine, Thereonine, tryptophan, tyrosine, valine and selenocysteine.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: List the 20 (+ 1) amino acids that occur in proteins. 
+
+###Response: The list of 20 (+ 1) amino acids that occur in proteins is: alanine, arginine, asparagine, aspartic acid, cysteine, glutamine, glutamic acid, glycine, histidine, isoleucine, leucine, lysine, methionine, phenylalanine , proline, serine, thereonine, tryptophan, tyrosine, valine and selenocysteine.","helpfulness:3.65625,correctness:3.640625,coherence:3.78125,complexity:1.4921875,verbosity:1.265625"
+What is the formula for calculating the amount of water that has run off the surface during the period of rainfall?,"If this value is multiplied by the area on which the precipitation fell, the result is the amount of water that has run off on the surface during the period of the precipitation.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the formula for calculating the amount of water that has run off the surface during the period of rainfall? 
+
+###Response: If this value is multiplied by the area on which the precipitation fell, the result is the amount of water that has run off on the surface during the period of the precipitation.","helpfulness:1.5703125,correctness:1.6640625,coherence:3.21875,complexity:1.3828125,verbosity:0.83984375"
+What is the description of the coat of arms of the municipality of Gouvy?,"The coat of arms was adopted by decision of the municipal council on July 15, 1977 and authorized by a decree of February 12, 1980. Ecartelé aux 1 et 4 parti à dextre de gules à un bilier passant d'argent (qui est de Zaluski), à senestre d'argent à three fleurs de lis de sable au pied posé (qui est de Rivière d'Arschot); aux 2 et 3 d'argent à cinq fasces de gules, au lion brochant d'or armé et lampassé de gules (qui est de Hayne).","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the description of the coat of arms of the municipality of Gouvy? 
+
+###Response: The coat of arms was adopted by decision of the municipal council on July 15, 1977 and authorized by a decree of February 12, 1980. Ecartelé aux 1 et 4 parti à dextre de gules à un bilier passant d'argent (qui est de Zaluski), à senestre d'argent à three fleurs de lis de sable au pied posé (qui est de Rivière d'Arschot); aux 2 et 3 d'argent à cinq fasces de gules, au lion brochant d'or armé et lampassé de gules (qui est de Hayne).","helpfulness:1.109375,correctness:1.328125,coherence:2.953125,complexity:1.6171875,verbosity:1.2890625"
+Describe the musical style of Plaguewielder.,"Plaguewielder is characterized by long songs, which on the one hand consist of quieter, atmospheric passages and on the other hand of harder and more difficult passages. As a doom metal band, Plaguewielder is characterized by relative monotony and repetitiveness.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Describe the musical style of Plaguewielder. 
+
+###Response: Plaguewielder is characterized by long songs, which on the one hand consist of quieter, atmospheric passages and on the other hand of harder and more difficult passages. As a doom metal band, Plaguewielder is characterized by relative monotony and repetitiveness.","helpfulness:2.296875,correctness:2.453125,coherence:3.65625,complexity:1.3515625,verbosity:0.96484375"
+Give the most important information about Deborah De Robertis.,"Deborah De Robertis is a Luxembourgish-French performance artist, born on February 12, 1984 in Luxembourg. She grew up on Lampertsberg and studied at the École de recherche graphique in Brussels.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give the most important information about Deborah De Robertis. 
+
+###Response: Deborah De Robertis is a Luxembourgish-French performance artist, born on February 12, 1984 in Luxembourg. She grew up on Lampertsberg and studied at the École de recherche graphique in Brussels.","helpfulness:2.984375,correctness:3.3125,coherence:3.734375,complexity:1.2109375,verbosity:0.98828125"
+Where is Niedderkärjeng?,Niedderkäerjeng is located in the southwest of Luxembourg.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Where is Nidderkärjeng located? 
+
+###Response: Nidderkäerjeng is located in the southwest of Luxembourg.","helpfulness:2.5,correctness:2.546875,coherence:3.765625,complexity:0.61328125,verbosity:0.466796875"
+Which company has Virgin invested in since 2017?,"Since 2017, Virgin has invested in the company Hyperloop One, which was renamed ""Virgin Hyperloop One"".","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: In what company has Virgin invested since 2017? 
+
+###Response: Since 2017, Virgin has invested in the company Hyperloop One, which was renamed ""Virgin Hyperloop One"".","helpfulness:3.015625,correctness:3.140625,coherence:3.84375,complexity:0.98046875,verbosity:0.498046875"
+What was the subject of the commemorative coin for the 50th anniversary of the Roman Treaties?,"The title is in Latin: 'PACTVM ROMANVM QVINQVAGENARIVM', The name of the country is in all 3 official languages of Belgium, namely in German, French and Dutch.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the subject of the commemorative coin for the 50th anniversary of the Roman Treaties? 
+
+###Response: The title is in Latin: 'PACTVM ROMANVM QVINQVAGENARIVM', The name of the country is in all 3 official languages of Belgium, namely in German, French and Dutch.","helpfulness:1.9140625,correctness:1.9375,coherence:3.3125,complexity:1.1640625,verbosity:0.8125"
+When did Marco Mille work at Siemens?,Marco Mille only joined Siemens in March 2010.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Marco Mille work at Siemens? 
+
+###Response: Marco Mille joins Siemens in March 2010.","helpfulness:0.94921875,correctness:0.88671875,coherence:3.296875,complexity:0.287109375,verbosity:0.298828125"
+What is the result of the large-scale police control at the Kockelscheier?,"The police issued 20 warning charges and one protocol, and 4 people have to go to the technical inspection with their vehicle.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the result of the large-scale police control at the Kockelscheier? 
+
+###Response: The police issued 20 warning notices and one protocol, and 4 people have to go to the technical inspection with their vehicle.","helpfulness:2.671875,correctness:3.0,coherence:3.71875,complexity:0.99609375,verbosity:0.7265625"
+Give me the number of young people in Luxembourg who were overweight in 2019.,"In 2019, 9.75 percent of children were fundamentally overweight.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the number of young people in Luxembourg who were overweight in 2019. 
+
+###Response: In 2019, 9.75 percent of children were fundamentally overweight.","helpfulness:1.5390625,correctness:1.3671875,coherence:3.453125,complexity:0.6484375,verbosity:0.41015625"
+What did the owner of an animal say about the relationship of the accused to the horses?,"The owner said that the accused did not have enough time for the horse and she had been told that everything was fine, except for one time when the animal had a throat blockage.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did the owner of an animal say about the relationship of the accused to the horses? 
+
+###Response: The owner said that the accused did not have enough time for the horse and she was told that everything was fine, except for one time when the animal had a throat blockage.","helpfulness:1.9296875,correctness:1.9765625,coherence:3.640625,complexity:0.84375,verbosity:0.87890625"
+"Since 2022, how many agencies are responsible for continuing education and non-formal education?","Since 2022, six agencies will be responsible for continuous training in non-formal education: Caritas, Croix Rouge, Elisabeth, Fedas, focus and Inter-actions.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many agencies are responsible for continuing education and non-formal education since 2022? 
+
+###Response: Since 2022, six agencies will be responsible for continuous training in non-formal education: Caritas, Croix Rouge, Elisabeth, Fedas, focus and Inter-actions.","helpfulness:1.5625,correctness:1.5859375,coherence:3.421875,complexity:1.0703125,verbosity:0.65234375"
+What are the results of the study on Brexit and health?,"The study found that the use of antidepressants in the UK increased after Brexit. This increase can always be determined, regardless of whether there was a majority in the region for or against Brexit.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the results of the study on Brexit and health? 
+
+###Response: The study found that the use of antidepressants increased in the UK after Brexit. This increase can always be determined, regardless of whether there was a majority in the region for or against Brexit.","helpfulness:2.1875,correctness:2.4375,coherence:3.46875,complexity:1.1640625,verbosity:0.61328125"
+What happened to the gas station in Luxembourg?,"The first hydrogen filling station was inaugurated in Luxembourg. Guy Breden, the first owner of a hydrogen car in this country, is especially happy because he no longer has to drive to Saarbrücken to refuel.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What happened to the hydrogen gas station in Luxembourg? 
+
+###Response: The first hydrogen gas station was inaugurated in Luxembourg. Guy Breden, the first owner of a hydrogen car in this country, is especially happy because he no longer has to drive to Saarbrücken to refuel.","helpfulness:1.109375,correctness:1.296875,coherence:3.46875,complexity:0.77734375,verbosity:0.76953125"
+"What is the bill 5611 on youth unemployment, which was introduced on October 25, 2006?","Bill 5611 is a bill introduced by the Minister of Labor, which provides for very serious changes in the payment of unemployment benefits. Young people who come out of an employment initiative and do not immediately find a job must endure a waiting period of 6 months before they can apply for unemployment benefits.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the draft law 5611 on youth unemployment, which was presented on October 25, 2006? 
+
+###Response: Bill 5611 is a bill introduced by the Minister of Labor, which provides for very serious changes in the payment of unemployment benefits. Young people who come out of an employment initiative and do not immediately find a job must endure a waiting period of 6 months before they can apply for unemployment benefits.","helpfulness:1.5703125,correctness:1.8125,coherence:3.53125,complexity:1.25,verbosity:0.94921875"
+Give me the name of the artist who released the album 'Time' and also the date the article was written.,"The artist is Lionel Richie and the article was written on September 9, 1999.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the name of the artist who released the album 'Time' and also the date the article was written. 
+
+###Response: The artist's name is Lionel Richie and the article was written on September 9, 1999.","helpfulness:0.62890625,correctness:0.4921875,coherence:3.546875,complexity:0.56640625,verbosity:0.640625"
+Give me the score of the match between Dortmund and Real Madrid after the 24th minute.,After the 24th minute it was 1:0 for Dortmund when Reus scored.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the score of the match between Dortmund and Real Madrid after the 24th minute. 
+
+###Response: After the 24th minute it was 1:0 for Dortmund when Reus scored.","helpfulness:1.3125,correctness:1.3828125,coherence:3.65625,complexity:0.498046875,verbosity:0.6328125"
+What can you do to feel better if you are constantly in a bad mood because of winter?,"For example, you can listen to sunny music, preferably from South America. A summer hit can lift the mood already. Friendly colors at home, or sounds that remind of summer can help.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What can you do to feel better if you are constantly in a bad mood because of winter? 
+
+###Response: For example, you can listen to sunny music, preferably from South America. A summer hit can lift the mood already. Friendly colors at home, or sounds that remind of summer can help.","helpfulness:2.484375,correctness:2.546875,coherence:3.640625,complexity:0.77734375,verbosity:0.703125"
+When is the soundtrack to the Beatles film 'Help!' came out?,"The soundtrack of the Beatles film 'Help!' was released on August 6, 1965.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When is the soundtrack of the Beatles film 'Help!' came out? 
+
+###Response: The soundtrack of the Beatles film 'Help!' was released on August 6, 1965.","helpfulness:3.765625,correctness:3.765625,coherence:4.03125,complexity:0.55859375,verbosity:0.66015625"
+When will Paul Konsbruck leave the State Ministry?,"Paul Konsbruck will leave the State Ministry in the coming months, after more than 7 years in the service of the state.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When will Paul Konsbruck leave the State Ministry? 
+
+###Response: Paul Konsbruck will leave the State Ministry in the coming months, after more than 7 years in the service of the state.","helpfulness:2.109375,correctness:2.25,coherence:3.46875,complexity:0.79296875,verbosity:0.86328125"
+Give the date of the article and describe the main subject of the article.,"The article is from November 26, 2020 and describes the preparation of the Luxembourg national basketball team for the World Cup pre-qualification in Bratislava.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Enter the date of the article and describe the main subject of the article. 
+
+###Response: The article is dated November 26, 2020 and describes the preparation of the Luxembourg national basketball team for the World Cup pre-qualification in Bratislava.","helpfulness:2.90625,correctness:3.03125,coherence:3.84375,complexity:0.96484375,verbosity:0.83203125"
+How to prevent noodles from sticking together?,You can prevent noodles from sticking together by reserving some of the cooking water and pouring it over the noodles later. This works because the starch that goes into the water when the noodles are cooked stops the noodles from sticking together.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How can you prevent noodles from sticking together? 
+
+###Response: You can prevent noodles from sticking together by keeping some of the cooking water and pouring it over the noodles later. This works because the starch that goes into the water when the noodles are cooked stops the noodles from sticking together.","helpfulness:2.71875,correctness:2.71875,coherence:3.75,complexity:1.1015625,verbosity:1.015625"
+"What was happening on August 6, 1945?",The B-29 bomber 'Enola Gay' dropped the first atomic bomb on the Japanese state of Hiroshima.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was happening on August 6, 1945? 
+
+###Response: The B-29 bomber 'Enola Gay' dropped the first atomic bomb on the Japanese state of Hiroshima.","helpfulness:3.375,correctness:3.484375,coherence:3.8125,complexity:1.0078125,verbosity:0.458984375"
+What is the context in which the action of the students from the city of Luxembourg took place in December 2008?,"The action took place in December 2008, when the number of refugees in the Kenyan refugee camp Dadaab increased sharply, and the situation in Somalia worsened.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the context in which the action of the students from the city of Luxembourg took place in December 2008? 
+
+###Response: The action took place in December 2008, when the number of refugees in the Kenyan refugee camp Dadaab increased sharply, and the situation in Somalia worsened.","helpfulness:2.609375,correctness:2.796875,coherence:3.640625,complexity:1.203125,verbosity:0.859375"
+"Who won the San Remo Festival on August 6, 1958?","Domenico Modugno won the San Remo Festival on August 6, 1958 with 'Nel Blu, Dipinto Di Blu (Volare)'.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Who won the San Remo Festival on August 6, 1958? 
+
+###Response: Domenico Modugno won the San Remo Festival on August 6, 1958 with 'Nel Blu, Dipinto Di Blu (Volare)'.","helpfulness:1.25,correctness:1.265625,coherence:3.6875,complexity:0.65234375,verbosity:0.703125"
+Who will succeed Paul Konsbruck as head of the cabinet?,"Jeff Feller, who is a lawyer and political scientist, will succeed Paul Konsbruck as head of the cabinet.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Who will succeed Paul Konsbruck as head of the cabinet? 
+
+###Response: Jeff Feller, who is a lawyer and political scientist, will succeed Paul Konsbruck as head of the cabinet.","helpfulness:2.0,correctness:1.984375,coherence:3.703125,complexity:0.7890625,verbosity:0.64453125"
+What is the current situation between the EU and the UK regarding the UK's exit from the EU?,"The EU and Great Britain are in the process of negotiations on the withdrawal of Great Britain from the EU, but a lot of questions have not been clarified, and Scotland and Wales have threatened to vote against the Brexit law.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the current situation between the EU and Great Britain regarding the exit of Great Britain from the EU? 
+
+###Response: The EU and the United Kingdom are in the process of negotiations on the withdrawal of the United Kingdom from the EU, but a lot of questions have not been clarified, and Scotland and Wales have threatened to vote against the Brexit law .","helpfulness:2.875,correctness:3.046875,coherence:3.734375,complexity:1.0390625,verbosity:0.80078125"
+How many refugees and other migrants were rescued between Africa and Europe on the central Mediterranean route within 24 hours?,"Around 2,300 refugees and other migrants were rescued.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many refugees and other migrants were rescued between Africa and Europe on the central Mediterranean route within 24 hours? 
+
+###Response: Around 2,300 refugees and other migrants were rescued.","helpfulness:2.59375,correctness:2.546875,coherence:3.640625,complexity:0.62890625,verbosity:0.50390625"
+Give me the date of the article about the suspicious packages in Yemen.,2010-10-30,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the date of the article about the suspicious packages in Yemen. 
+
+###Response: 2010-10-30","helpfulness:2.03125,correctness:2.25,coherence:3.375,complexity:0.330078125,verbosity:-0.029052734375"
+"Given the current number of infections in Italy, as of 2020-03-08.","The number of infections has risen to almost 7,400.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give the current number of infections in Italy, as of 2020-03-08. 
+
+###Response: The number of infections has risen to almost 7,400.","helpfulness:2.421875,correctness:2.484375,coherence:3.5625,complexity:0.60546875,verbosity:0.6015625"
+What is the title of the book and the exhibition that the author Claude Frisoni and the photographer Raymond Reuter created together with the Chambre des Salariés?,The title of the book in the exhibition is 'Les Exclus du Festin'.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the title of the book in the exhibition that the author Claude Frisoni and the photographer Raymond Reuter created together with the Chambre des Salariés? 
+
+###Response: The title of the book in the exhibition is 'Les Exclus du Festin'.","helpfulness:3.1875,correctness:3.28125,coherence:3.90625,complexity:1.015625,verbosity:0.69921875"
+Which place in Luxembourg does Manu Konsbruck like best and why?,"The Plateau Altmünster, wonderful view and a very good restaurant.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Which place in Luxembourg does Manu Konsbruck like best and why? 
+
+###Response: The Plateau Altmünster, wonderful view and a very good restaurant.","helpfulness:2.046875,correctness:2.265625,coherence:3.671875,complexity:0.6015625,verbosity:0.328125"
+"Give me the amount that the Fondation Luxembourg Air Rescue collected at the Concert de Bienfaisance de la Musique Militaire Grand-Ducale on January 25, 2017.","5,200€","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the amount that the Fondation Luxembourg Air Rescue collected at the Concert de Bienfaisance de la Musique Militaire Grand-Ducale on January 25, 2017. 
+
+###Response: €5,200","helpfulness:0.8828125,correctness:1.0625,coherence:3.171875,complexity:0.5234375,verbosity:0.41796875"
+What happens if you sit in the corridor and not in front?,"One is only looked at strangely, because one does not have a jacket and suitcase in hand.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What happens if you sit in the corridor and not in front? 
+
+###Response: One is only looked at strangely, because one does not have a jacket and suitcase in hand.","helpfulness:1.640625,correctness:1.8515625,coherence:3.375,complexity:0.4765625,verbosity:0.30078125"
+Where and when will the match against Titus Péiteng be played?,The match against Titus Péiteng will start on Saturday at 19:00 in Hesper am Holleschbierg.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Where and when will the match against Titus Péiteng be played? 
+
+###Response: The match against Titus Péiteng will start on Saturday at 19:00 in Hesper am Holleschbierg.","helpfulness:3.125,correctness:3.203125,coherence:3.6875,complexity:1.0078125,verbosity:0.87109375"
+"What is the decision that the mayor of Déifferden, Roberto Traversini, explained?",It was then submitted to the Ministry of the Interior that all churches would go to the church fund and that of Lasauvage and municipalities would remain property.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the decision that the Déifferden mayor Roberto Traversini explained? 
+
+###Response: It was then submitted to the Ministry of the Interior that all churches would go to the church fund and that of Lasauvage and municipalities would remain property.","helpfulness:1.15625,correctness:1.25,coherence:3.09375,complexity:0.98046875,verbosity:0.78515625"
+What is the conclusion of the article?,"The article concludes that Nijmegen is a good example of a city that makes itself attractive for bicycle traffic, and that Luxembourg still has a lot to catch up on, so that it becomes possible to achieve a similar quality of life.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the conclusion of the article? 
+
+###Response: The article concludes that Nijmegen is a good example of a city that makes itself attractive for bicycle traffic, and that Luxembourg still has a lot to catch up on, so that it becomes possible to achieve a similar quality of life.","helpfulness:2.609375,correctness:2.640625,coherence:3.921875,complexity:1.0390625,verbosity:1.015625"
+What is the connection between the article and the poem by La Fontaine?,"The article refers to the poem by La Fontaine, 'La Cigale et la Fourmi', in which the Cigale, who did nothing in the summer, is criticized by the Fourmi, because she has nothing to feed herself in the winter. The author compares the Greeks with the cigale and the Germans with the Fourmi, and thematizes the stereotype that the Greeks are 'lazy' and the Germans are 'hardworking'.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the connection between the article and the poem by La Fontaine? 
+
+###Response: The article refers to the poem by La Fontaine, 'La Cigale et la Fourmi', in which the Cigale, who did nothing in the summer, is criticized by the Fourmi, because she has nothing in the winter, for to feed oneself. The author compares the Greeks with the cigale and the Germans with the Fourmi, and thematizes the stereotype that the Greeks are 'lazy' and the Germans are 'hardworking'.","helpfulness:3.546875,correctness:3.703125,coherence:3.828125,complexity:1.5625,verbosity:1.4765625"
+What is the traditional cuisine of the Molise region in Italy?,"The cuisine from Molise is meager, simple and not suitable for extravagances. Pasta is an important element in Molisian cuisine.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the traditional cuisine of the Molise region in Italy? 
+
+###Response: The cuisine from Molise is poor, simple and not suitable for extravagances. Pasta is an important element in Molisian cuisine.","helpfulness:2.046875,correctness:1.90625,coherence:3.296875,complexity:0.78515625,verbosity:0.3046875"
+"What is the central issue in the campaign of the Gauche for the local elections on October 8, 2017?","The central issue in the Gauche's campaign for the local elections on October 8, 2017 is housing. The left sees itself as the original on this point as well.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the central issue in the campaign of the Gauche for the municipal elections on October 8, 2017? 
+
+###Response: The central issue in the Gauche's campaign for the municipal elections on October 8, 2017 is housing. The left sees itself as the original on this point as well.","helpfulness:2.359375,correctness:2.53125,coherence:3.5,complexity:1.0546875,verbosity:0.734375"
+What are the conditions to participate in the Miss Universe contest?,"To take part in the Miss Universe contest, one must be between 18 and 26 years old, must not be expecting, nor married, must not have children and must never have posed for pictures.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the conditions to participate in the Miss Universe contest? 
+
+###Response: To take part in the Miss Universe contest, one must be between 18 and 26 years old, must not be pregnant, nor married, must not have children and must never have posed for pictures.","helpfulness:2.5,correctness:2.625,coherence:3.5625,complexity:0.92578125,verbosity:0.80859375"
+"Are the main difficulties that the teachers have in the secondary school, how to abolish the completely revised elementary school.","The professors have difficulties because they have too many students in one class, and it is difficult to take care of everyone individually. The grading system is impossible, and there are different tests in classes, which make it difficult for the students to learn according to their rhythm.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are the main difficulties that the teachers have in the secondary school, how to abolish the completely revised elementary school. 
+
+###Response: The professors have difficulties because they have too many students in a class, and it is difficult to take care of everyone individually. The grading system is impossible, and there are different tests in classes, which make it difficult for the students to learn according to their rhythm.","helpfulness:1.40625,correctness:1.4375,coherence:3.25,complexity:1.140625,verbosity:1.0859375"
+What is the author's motivation to help Heeschert at the theater?,"The author's motivation is that he wants to help Heeschert, because he believes that this man deserved something better than sitting on the street, and because he believes that solidarity is a civic duty.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the author's motivation to help Heeschert at the theater? 
+
+###Response: The author's motivation is that he wants to help Heeschert, because he believes that this man deserved something better than sitting on the street, and because he believes that solidarity is a civic duty.","helpfulness:2.984375,correctness:3.140625,coherence:3.9375,complexity:0.9296875,verbosity:0.953125"
+What is the result of UNICEF's 'Children's Light' campaign in 2011?,"The 'Kannerlicht' campaign raised 110,000 euros for UNICEF.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the result of UNICEF's 'Kannerlicht' campaign in 2011? 
+
+###Response: The 'Kannerlicht' campaign raised 110,000 euros for UNICEF.","helpfulness:0.59375,correctness:0.64453125,coherence:3.0625,complexity:0.45703125,verbosity:0.396484375"
+Is there a spring where more than 300 liters of rain fell on the square meter?,"Yes, in 1979 with 317 liters and in 1983 with even 342 liters.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Is there a spring where more than 300 liters of rain fell on the square meter? 
+
+###Response: Yes, in 1979 with 317 liters and in 1983 with even 342 liters.","helpfulness:0.64453125,correctness:0.62109375,coherence:3.28125,complexity:0.59765625,verbosity:0.44140625"
+Where was the Eurovision Song Contest 2012?,"The Eurovision Song Contest 2012 was held in the capital of Azerbaijan, Baku.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Where was the Eurovision Song Contest 2012? 
+
+###Response: The Eurovision Song Contest 2012 was held in the capital of Azerbaijan, Baku.","helpfulness:3.90625,correctness:4.03125,coherence:4.09375,complexity:0.9140625,verbosity:0.66015625"
+"What is the name of the band that was announced as the headliner of the BUCHAREST ROCK ARENA festival, but this was denied by the band?",AC/DC,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the name of the band that was announced as the headliner of the BUCHAREST ROCK ARENA festival, but this was denied by the band? 
+
+###Response: AC/DC","helpfulness:2.6875,correctness:3.078125,coherence:3.796875,complexity:0.62890625,verbosity:0.330078125"
+Where can you watch the return match against Portugal?,"The return match against Portugal can be watched live on RTL.lu, on Saturday at 19:00 in the Coque.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Where can you watch the return match against Portugal? 
+
+###Response: The return match against Portugal can be watched live on RTL.lu, on Saturday at 19:00 in the Coque.","helpfulness:1.5859375,correctness:1.7109375,coherence:3.40625,complexity:0.8515625,verbosity:0.74609375"
+"What did Xavier Bettel say on March 18, 2020 about the risk of requisitioning of French nursing staff?","Xavier Bettel said that he had guarantees, but the political development must be kept in mind, and that Luxembourg would go under if requisitions were made in France.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did Xavier Bettel say on March 18, 2020 about the risk of requisitioning of French nursing staff? 
+
+###Response: Xavier Bettel said that he had guarantees, but the political development must be kept in mind, and that Luxembourg would go under if requisitions were made in France.","helpfulness:2.65625,correctness:2.890625,coherence:3.8125,complexity:1.15625,verbosity:0.91796875"
+What is the average score in the 2018 Corruption Perceptions Index for all 180 countries?,The average score in the Corruption Index 2018 for all 180 countries is 43.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the average score in the 2018 Corruption Perceptions Index for all 180 countries? 
+
+###Response: The average score in the Corruption Index 2018 for all 180 countries is 43.","helpfulness:3.328125,correctness:3.25,coherence:3.921875,complexity:0.94921875,verbosity:0.408203125"
+What was the trigger for the resignation of national coach Guy Hellers?,"The trigger for the resignation of Guy Hellers is not known, but the Jeunesse player René Peters emphasized that there were results with Guy Hellers and that there were probably disputes, perhaps with Paul Philipp.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the trigger for the resignation of national coach Guy Hellers? 
+
+###Response: The trigger for the resignation of Guy Hellers is not known, but the Jeunesse player René Peters emphasized that there were results with Guy Hellers and that there were probably disputes, perhaps with Paul Philipp.","helpfulness:2.265625,correctness:2.40625,coherence:3.671875,complexity:1.03125,verbosity:0.97265625"
+"Give the most important information about the Luxembourg Football Federation's regular general meeting of November 13, 2004.",The Luxembourg Football Federation held its regular general meeting in Miersch in the Kulturhaus on Saturday. At the center of the 3-hour long congress was the presentation of the reform project of the FLF statutes.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give the most important information about the Luxembourg Football Federation's regular general meeting of November 13, 2004. 
+
+###Response: The Luxembourg Football Federation held its regular general meeting in Miersch on Saturday. At the center of the 3-hour long congress was the presentation of the reform project of the FLF statutes.","helpfulness:1.8046875,correctness:1.9140625,coherence:3.234375,complexity:1.1015625,verbosity:0.59375"
+What is the procedure for monitoring financial flows to detect attempts at fraud and money laundering?,"The National Lottery requires all customers to register online so that their identity can be verified. As for the winnings, they are transferred to the customer's online account, but only up to 750 euros.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the procedure for monitoring financial flows to detect attempts at fraud and money laundering? 
+
+###Response: The National Lottery requires all customers to register online so that their identity can be verified. As for the winnings, they are transferred to the customer's online account, but only up to 750 euros.","helpfulness:0.392578125,correctness:0.388671875,coherence:2.796875,complexity:0.86328125,verbosity:0.8203125"
+What is the goal of the non-profit organization 'Straosten Englen'?,"The goal of the non-profit organization 'Straosten Englen' is to offer the people on the street the help they need, and also to get them off the street.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the goal of the non-profit organization 'Stroesten Englen'? 
+
+###Response: The goal of the non-profit organization 'Stroesten Englen' is to offer the people on the street the help they need, and also to get them off the street.","helpfulness:0.95703125,correctness:1.03125,coherence:3.609375,complexity:0.85546875,verbosity:0.78125"
+What are the consequences if the agreement is not accepted?,"If the agreement is not accepted, the United States could suddenly be unable to pay its debts, which would have had dire consequences for the entire world economy.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the consequences if the agreement is not accepted? 
+
+###Response: If the agreement is not accepted, the United States could suddenly be unable to pay its debts, which would have had dire consequences for the entire world economy.","helpfulness:2.25,correctness:2.296875,coherence:3.765625,complexity:0.8671875,verbosity:0.7734375"
+What is the initiative of Luxembourg NGOs that founded the website defenders.lu?,The initiative of Luxembourg NGOs founded the website defenders.lu to honor all the women and men who stand up for the remains of their fellow human beings and their environment.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the initiative of Luxembourg NGOs that founded the website defenders.lu? 
+
+###Response: The initiative of Luxembourg NGOs founded the website defenders.lu to honor all the women and men who stand up for the remains of their fellow human beings and their environment.","helpfulness:2.671875,correctness:2.765625,coherence:3.625,complexity:1.0078125,verbosity:0.546875"
+What are the strict measures that Italy is taking against the spread of the coronavirus?,"Parts of northern Italy are quarantined. This was announced by the head of government, Guiseppe Conte, in a decree on Sunday night. Therefore, in large parts of northern Italy, including Milan and Venice, no one is allowed to enter or leave, unless there are urgent professional reasons or health emergencies.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the strict measures that Italy is taking against the spread of the coronavirus? 
+
+###Response: Parts of northern Italy are quarantined. This was announced by the head of government, Guiseppe Conte, in a decree on Sunday night. Therefore, in large parts of northern Italy, including Milan and Venice, no one is allowed to enter or leave, unless there are urgent professional reasons or health emergencies.","helpfulness:2.234375,correctness:2.203125,coherence:3.421875,complexity:1.0234375,verbosity:0.97265625"
+How do people in Russia experience the situation? (As of: 2022-04-07),"People in Russia experience the situation hard, because they don't really talk about it and the Russians are reticent. Those who would dare, would have to reckon with consequences.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How do people in Russia experience the situation? (Stand: 2022-04-07) 
+
+###Response: People in Russia experience the situation hard, because they don't really talk about it and the Russians are reluctant. Those who would dare, would have to reckon with consequences.","helpfulness:2.0625,correctness:2.1875,coherence:3.65625,complexity:0.87109375,verbosity:0.640625"
+"Give me the result of the match between Barcelona and Milan in the Champions League of September 13, 2011.",The match between Barcelona and Milan ended 2:2.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the result of the match between Barcelona and Milan in the Champions League on September 13, 2011. 
+
+###Response: The match between Barcelona and Milan ended 2:2.","helpfulness:0.490234375,correctness:0.478515625,coherence:3.59375,complexity:0.349609375,verbosity:0.453125"
+"Give the most important details about the match between Manchester City and FC Copenhagen on March 6, 2024.","The match between Manchester City and FC Copenhagen ended with a 3:1 victory for Manchester City. Akanji, Alvarez and Haaland scored for Manchester City, but Elyounoussi scored for FC Copenhagen in the 29th minute.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give the most important details about the match between Manchester City and FC Copenhagen on March 6, 2024. 
+
+###Response: The match between Manchester City and FC Copenhagen ended with a 3:1 victory for Manchester City. Akanji, Alvarez and Haaland scored for Manchester City, but Elyounoussi scored for FC Copenhagen in the 29th minute.","helpfulness:1.140625,correctness:0.9609375,coherence:3.84375,complexity:0.94921875,verbosity:0.8125"
+"Who got their first point in Ligue 2 on May 27, 2022?",Andylam got his first point in League 2 after finishing last season with 0 points.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Who got his first point in League 2 on May 27, 2022? 
+
+###Response: Andylam got his first point in League 2 after finishing last season with 0 points.","helpfulness:-0.03662109375,correctness:-0.09912109375,coherence:3.0625,complexity:0.431640625,verbosity:0.341796875"
+When is the Central Europe Rally in Germany/Austria/Czech Republic?,The Central Europe Rally in Germany/Austria/Czech Republic is at the end of October.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When is the Central Europe Rally in Germany/Austria/Czech Republic? 
+
+###Response: The Central Europe Rally in Germany/Austria/Czech Republic is at the end of October.","helpfulness:0.5078125,correctness:0.5859375,coherence:3.53125,complexity:0.470703125,verbosity:0.12890625"
+"How old is Marketa Vondrousova, who qualified for the semi-finals in the quarter-finals of the Grand Slam in Paris 2019?","Marketa Vondrousova, who qualified for the semifinals in the quarterfinals of the Grand Slam in Paris 2019, is 19 years old.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How old is Marketa Vondrousova, who qualified for the semifinals in the quarterfinals of the Grand Slam in Paris 2019? 
+
+###Response: Marketa Vondrousova, who qualified for the semifinals in the quarterfinals of the Grand Slam in Paris 2019, is 19 years old.","helpfulness:3.640625,correctness:3.578125,coherence:4.0625,complexity:0.90234375,verbosity:0.8515625"
+What is the cause of the salmonella contamination at Ferrero?,The salmonella could probably be traced back to a contamination with a filter in a butter tank in Arel.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the cause of the salmonella contamination at Ferrero? 
+
+###Response: The salmonella could probably be traced back to a contamination with a filter in a butter tank in Arel.","helpfulness:2.484375,correctness:2.8125,coherence:3.609375,complexity:1.1171875,verbosity:0.55859375"
+Has the Italian police chief confirmed the accusations of Amnesty International?,"No, the Italian police chief has categorically denied the accusations of Amnesty International.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Did the Italian police chief confirm the accusations of Amnesty International? 
+
+###Response: No, the Italian police chief has categorically denied the accusations of Amnesty International.","helpfulness:2.515625,correctness:2.671875,coherence:3.78125,complexity:0.7734375,verbosity:0.234375"
+"What was in the two packages that were discovered on Friday, on the way to Chicago in the United States?","Effective explosives, including a bomb made of penthrite and also lead.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was in the two packages that were discovered on Friday, on the way to Chicago in the USA? 
+
+###Response: Effective explosives, including a bomb made of penthrite and also lead.","helpfulness:1.1796875,correctness:1.1015625,coherence:3.390625,complexity:0.62890625,verbosity:0.291015625"
+"Give us the result of the match between Chelsea and Paris Saint-Germain on April 8, 2014.",Chelsea won 2:0 against Paris Saint-Germain.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the result of the match between Chelsea and Paris Saint-Germain on April 8, 2014. 
+
+###Response: Chelsea won 2:0 against Paris Saint-Germain.","helpfulness:0.50390625,correctness:0.5625,coherence:3.703125,complexity:0.427734375,verbosity:0.55078125"
+"What was on March 9, 1969 on ZDF?","On March 9, 1969, the ""Peter Alexander Show"" premiered on ZDF.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was on ZDF on March 9, 1969? 
+
+###Response: On March 9, 1969, the ""Peter Alexander Show"" premiered on ZDF.","helpfulness:1.3671875,correctness:1.5390625,coherence:3.5625,complexity:0.5703125,verbosity:0.6015625"
+What is the author's opinion about the game 'Smash Bros. Ultimate'?,"The author's opinion is that 'Smash Bros. Ultimate' the best smash game ever released, and gets a clear 9/10 from him.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the author's opinion about the game 'Smash Bros. Ultimate'? 
+
+###Response: The author's opinion is that 'Smash Bros. Ultimate' the best smash game ever released, and gets a clear 9/10 from him.","helpfulness:1.546875,correctness:1.640625,coherence:3.828125,complexity:0.76171875,verbosity:0.78515625"
+Are there companies in Luxembourg that offer sports holiday activities?,"Yes, there are companies that offer such football internships during the holidays, such as Coque, a public establishment, which now has a first internship during the All Saints' holiday, with an emphasis on football, where there was also an afternoon of swimming and climbing.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are there companies in Luxembourg that offer sports holiday activities? 
+
+###Response: Yes, there are companies that offer such football internships during the holidays, such as Coque, a public establishment, which now offers a first internship during the All Saints' holiday, with an emphasis on football, where there is also an afternoon of swimming and climbing were present.","helpfulness:2.375,correctness:2.265625,coherence:3.421875,complexity:1.0703125,verbosity:1.03125"
+What are the goals of the Vegan Society Luxembourg according to Jeff Mannes?,"The aims of the Vegan Society Luxembourg are to draw attention to often forgotten problems, such as the keeping of large animals, and to create an awareness of certain conditions in society.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the goals of the Vegan Society Luxembourg according to Jeff Mannes? 
+
+###Response: The aims of the Vegan Society Luxembourg are to draw attention to often forgotten problems, such as the keeping of large animals, and to create an awareness of certain conditions in society.","helpfulness:2.671875,correctness:2.796875,coherence:3.578125,complexity:1.1015625,verbosity:0.89453125"
+"What did Patrick Goodman, partner of Innpact, say about the projects of SOS?","He said that the projects of SOS reflect the philosophy of Innpact, namely improving the quality of life and building future prospects.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did Patrick Goodman, partner of Innpact, say about the projects of SOS? 
+
+###Response: He said that the projects of SOS reflect the philosophy of Innpact, namely improving the quality of life and building future prospects.","helpfulness:2.78125,correctness:2.828125,coherence:3.890625,complexity:0.984375,verbosity:0.7578125"
+"When the seriousness of life begins, what is the end?","When the seriousness of life begins, then the school period is over, when one has finished his schooling and can go into the professional world.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When the seriousness of life begins, what is the end? 
+
+###Response: When the seriousness of life begins, then the school period is over, when one finishes school and can go into the professional world.","helpfulness:0.93359375,correctness:1.1796875,coherence:3.25,complexity:0.71875,verbosity:0.5859375"
+"What was the date of the State Council, where 3 construction projects for 23 million. Euros accepted?","On September 22, 2009.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the date of the State Municipal Council, where 3 construction projects for 23 million. Euros accepted? 
+
+###Response: September 22, 2009.","helpfulness:0.4765625,correctness:0.28515625,coherence:3.171875,complexity:0.44921875,verbosity:0.189453125"
+What was the question of the doctor's lawyer?,"The lawyer asked if her client had not been wrongly accused, because the prisoner was already known as a drug addict and the doctor had not been responsible for the follow-up of the prisoner.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the question of the doctor's lawyer? 
+
+###Response: The lawyer asked if her client had not been wrongly accused, because the prisoner was already known as a drug addict and the doctor had not been responsible for the follow-up of the prisoner.","helpfulness:2.78125,correctness:2.9375,coherence:3.859375,complexity:0.9921875,verbosity:0.76953125"
+What is the purpose of the directive on the return of sans papiers?,"There is no common European immigration policy, here are common rules for deportation! A person who has done nothing wrong, but does not have the right papers, can be imprisoned for up to 18 months!","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the purpose of the directive on the return of Sans Papiers? 
+
+###Response: There is no common European immigration policy, here are common rules for expulsion! A person who has done nothing wrong, but does not have the right papers, can be imprisoned for up to 18 months!","helpfulness:0.61328125,correctness:0.91796875,coherence:3.21875,complexity:0.9375,verbosity:0.83203125"
+What did FLF president Paul Philipp say about Gianni Infantino's inauguration?,FLF president Paul Philipp regrets that Gianni Infantino fell into too much activism right at the beginning.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did FLF president Paul Philipp say about Gianni Infantino's inauguration? 
+
+###Response: The FLF president Paul Philipp regrets that Gianni Infantino fell into too much activism right at the beginning.","helpfulness:1.3359375,correctness:1.2890625,coherence:3.46875,complexity:0.8203125,verbosity:0.333984375"
+"What did journalist Guy Kayser say on RTL on May 20, 2009?",He said that the girls could have been infected with risky types of viruses that later lead to cervical cancer.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did journalist Guy Kayser say on RTL on May 20, 2009? 
+
+###Response: He said that the girls could already be infected with risky types of viruses as babies, which later cause cervical cancer.","helpfulness:0.828125,correctness:0.8046875,coherence:3.640625,complexity:0.7265625,verbosity:0.65234375"
+What is the purpose of the research of the Laboratory of Molecular Biology and Cellulaire of Cancer (LBMCC) in Luxembourg?,The purpose of LBMCC's research is to find new substances with anticancer properties that either kill cancer cells directly or impair their survival strategies.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the purpose of the research of the Laboratory of Molecular Biology and Cellulaire of Cancer (LBMCC) in Luxembourg? 
+
+###Response: The purpose of LBMCC's research is to find new agents with anticancer properties that either kill cancer cells directly or impair their survival strategies.","helpfulness:3.015625,correctness:2.984375,coherence:3.546875,complexity:1.359375,verbosity:0.57421875"
+What is the main conclusion of the ATOZ study about the changed priorities in the Corona era?,"People want change, but they are skeptical when it comes to implementing it.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the main conclusion of the ATOZ study about the changed priorities in the Corona era? 
+
+###Response: People want change, but they are skeptical when it comes to implementing it.","helpfulness:2.25,correctness:2.296875,coherence:3.765625,complexity:0.8359375,verbosity:0.5078125"
+"Give me a short summary of the article about the album 'Effleurés' from February 4, 2008.","The album 'Effleurés' tells the story of a young man from a good family who meets a young woman who does not follow the conventions and expectations of society. The story is growing more and more, but also the big problems are coming up.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me a short summary of the article about the album 'Effleurés' dated February 4, 2008. 
+
+###Response: The album 'Effleurés' tells the story of a young man from a good family, who Meet a woman who does not follow the conventions and expectations of society. The story is growing more and more, but also the big problems are coming up.","helpfulness:0.953125,correctness:1.1171875,coherence:3.59375,complexity:0.94921875,verbosity:0.9609375"
+"What was the purpose of the EU summit in Brussels on February 20, 2020?",The purpose of the EU summit was to decide the budget for the next 7 years.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the purpose of the EU summit in Brussels on February 20, 2020? 
+
+###Response: The purpose of the EU summit was to decide the budget for the next 7 years.","helpfulness:2.84375,correctness:2.953125,coherence:3.90625,complexity:0.6171875,verbosity:0.328125"
+Are there issues on which people have become more open and others on which they have become less tolerant?,"Yes, the study found that people became more open about issues such as homosexuality, divorce and euthanasia, but became less tolerant about individual moral behavior, including suicide and abortion.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are there issues on which people have become more open and others on which they have become less tolerant? 
+
+###Response: Yes, the study found that people became more open about issues such as homosexuality, divorce and euthanasia, but became less tolerant about individual moral behavior, including suicide and abortion.","helpfulness:2.65625,correctness:2.625,coherence:3.796875,complexity:1.0859375,verbosity:0.7109375"
+What is the system that the film studios themselves provide for the promotion of their films?,"The system is that a trailer is made for the trailer, i.e. a film that announces the film that announces the film. And even before they come to the cinema, you can find trailers, teasers and extracts on the Internet.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the system that the film studios themselves provide for the promotion of their films? 
+
+###Response: The system is that a trailer is made for the trailer, i.e. a film that announces the film that announces the film. And even before they come to the cinema, you can find trailers, teasers and extracts on the Internet.","helpfulness:1.21875,correctness:1.296875,coherence:3.109375,complexity:0.89453125,verbosity:1.0078125"
+Give me the number of visitors to the museum 'A Possen' in Bech-Klengmaacher in 2011.,"There were 2,000 people who came to the museum.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the number of visitors to the museum 'A Possen' in Bech-Klengmaacher in 2011. 
+
+###Response: There were 2,000 people who came to the museum.","helpfulness:0.53125,correctness:0.384765625,coherence:3.328125,complexity:0.3984375,verbosity:0.365234375"
+"What was the final result of the match between Real Madrid and Manchester City on September 18, 2012?","The final result of the match between Real Madrid and Manchester City on September 18, 2012 was 3:2 for Real Madrid.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the final result of the match between Real Madrid and Manchester City on September 18, 2012? 
+
+###Response: The final result of the match between Real Madrid and Manchester City on September 18, 2012 was 3:2 for Real Madrid.","helpfulness:2.34375,correctness:2.296875,coherence:3.984375,complexity:0.6796875,verbosity:0.7734375"
+What is the specialty of Aalt Stadhaus Déifferdeng?,"Comedy&Blues, because every cultural center here in the south has chosen a specialty. Déifferding is the blues city par excellence thanks to the Blues Express and also its blues school, the likes of which cannot be found anywhere else in the country.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the specialty of Aalt Stadhaus Déifferdeng? 
+
+###Response: Comedy&Blues, because every cultural center here in the south has chosen a specialty. Déifferding is the blues city par excellence thanks to the Blues Express and also its blues school, the likes of which cannot be found anywhere else in the country.","helpfulness:2.484375,correctness:2.765625,coherence:3.65625,complexity:1.0859375,verbosity:1.1171875"
+What happens to Jason when he is kidnapped?,"When Jason is kidnapped, he finds out that nothing is as he knows it. His house is modern and expensively furnished, his wife is not his wife and his son, it seems, was never born.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What happens to Jason when he is kidnapped? 
+
+###Response: When Jason is kidnapped, he finds out that nothing is as he knows it. His house is modern and expensively furnished, his wife is not his wife and his son, it seems, was never born.","helpfulness:1.734375,correctness:1.84375,coherence:3.59375,complexity:0.76171875,verbosity:0.9765625"
+When is the final answer to the question expected?,"The final answer is only expected later, when the analysis of the criteria is complete and those responsible have put it together.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When is the final answer to the question expected? 
+
+###Response: The final answer is only expected later, when the analysis of the criteria is completed and those responsible have put it together.","helpfulness:2.921875,correctness:2.9375,coherence:3.6875,complexity:0.8359375,verbosity:0.6953125"
+What is the principle of the 'Three Strikes' and how does it affect internet providers?,The principle of the 'Three Strikes' stipulates that an Internet provider must denounce a customer if the latter makes an illegal download for a third party.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the principle of the 'Three Strikes' and how does it affect internet providers? 
+
+###Response: The principle of the 'Three Strikes' stipulates that an Internet provider must denounce a customer if the latter makes an illegal download for a third party.","helpfulness:1.515625,correctness:1.7265625,coherence:3.46875,complexity:0.95703125,verbosity:0.51953125"
+"What did the UN Security Council say on December 27, 2008 about the Israeli attacks in the Gaza Strip?",The UN Security Council calls on Israel and Hamas to stop the attacks immediately. The 15 members of the committee met in New York for 4 hours this morning and stated this in a non-binding declaration.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did the UN Security Council say on December 27, 2008 about the Israeli attacks in the Gaza Strip? 
+
+###Response: The UN Security Council calls on Israel and Hamas to stop the attacks immediately. The 15 members of the committee met in New York for 4 hours this morning and stated this in a non-binding declaration.","helpfulness:2.671875,correctness:2.9375,coherence:3.609375,complexity:1.1484375,verbosity:0.85546875"
+"What is participation in the courses and excursions, and what are the costs?",Participation in the courses and excursions is associated with a registration fee. Spectators do not need to pay an entrance fee.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is participation in the courses and excursions, and what are the costs? 
+
+###Response: Participation in courses and excursions is associated with registration fees. Spectators do not need to pay an entrance fee.","helpfulness:1.71875,correctness:1.984375,coherence:3.59375,complexity:1.046875,verbosity:0.349609375"
+Can a customer cancel or rebook a trip if it is too hot?,"No, due to the heat is not covered. I think that if there are real fires and such stories, a case of force majeure, that is something else. But if it's hotter, you can't guarantee that and you can't easily come back either.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Can a customer cancel or rebook a trip if it is too hot? 
+
+###Response: No, due to the heat is not covered. I think that if there are real fires and such stories, a case of force majeure, that is something else. But if it's hotter, you can't guarantee that and you can't easily come back.","helpfulness:2.625,correctness:2.921875,coherence:3.890625,complexity:0.9140625,verbosity:1.015625"
+Give a brief overview of the democracy check that the journalist Cédric Ferry did.,"The journalist Cédric Ferry did a democracy check, where he a. asked whether double mandates are still appropriate, whether the term of office for ministers should be limited and how many ministerial positions one person should be able to occupy.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give a brief overview of the democracy check that the journalist Cédric Ferry did. 
+
+###Response: The journalist Cédric Ferry did a democracy check, where he a. asked whether double mandates are still appropriate, whether the term of office for ministers should be limited and how many ministerial positions one person should be able to occupy.","helpfulness:2.125,correctness:2.15625,coherence:3.421875,complexity:0.97265625,verbosity:0.9375"
+What do I have to do to participate in the Viva holiday game and win a stay in Calabria?,I simply have to send an SMS with the keyword 'Calabria' to 62468 or find more information in this week's magazine.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What do I have to do to participate in the Viva vacation game and win a stay in Calabria? 
+
+###Response: I simply have to send an SMS with the keyword 'Calabria' to 62468 or find more information in this week's review.","helpfulness:1.7734375,correctness:1.9765625,coherence:3.5625,complexity:0.77734375,verbosity:0.5546875"
+Is there a code for Luxembourgish films?,"Again, we could not find a code for Luxembourgish films on the Finder page.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Is there a code for Luxembourg films? 
+
+###Response: New, we could not find a code for Luxembourgish films on the Finder page.","helpfulness:1.6796875,correctness:1.71875,coherence:3.359375,complexity:0.5703125,verbosity:0.359375"
+When was the sweetener Stevia approved by the EU Commission?,"The sweetener stevia was approved by the EU Commission on November 14, 2011.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When was the sweetener stevia allowed by the EU Commission? 
+
+###Response: The sweetener stevia was approved by the EU Commission on November 14, 2011.","helpfulness:2.375,correctness:2.515625,coherence:3.9375,complexity:0.7734375,verbosity:0.5234375"
+When could the Mini SNES be released?,"The Mini SNES could be released for Christmas 2017, but you just have to be patient and hope that more consoles will be produced than last year.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When could the Mini SNES be released? 
+
+###Response: The Mini SNES could be released for Christmas 2017, but you just have to be patient and hope that more consoles will be produced than last year.","helpfulness:1.9609375,correctness:1.9921875,coherence:3.421875,complexity:0.6875,verbosity:0.64453125"
+"Give me the sources used for the spelling of the Luxembourgish language, according to the article of June 21, 2013.","The sources used for the spelling of the Luxembourgish language are among others: Orthographie luxembourgeoise: Règlement grand-ducal du 30 juillet 1999, spelling of Prof. dr. Peter Gilles, A little help to write Luxembourgish by the Ministry of National Education, Grammaire de la langue luxembourgeoise by the Ministry of National Education and Vocational Education, Our spelling and some general thoughts by Lex Roth, Luxembourgish Grammar by Françoise Schanen and Jacqui Zimmer, and others more.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the sources used for the spelling of the Luxembourgish language according to the article of June 21, 2013. 
+
+###Response: The sources used for the spelling of the Luxembourgish language were used, among others: Orthographie luxembourgeoise: Règlement grand-ducal du 30 juillet 1999, writing by Prof. dr. Peter Gilles, A little help to write Luxembourgish by the Ministry of National Education, Grammaire de la langue luxembourgeoise by the Ministry of National Education and Vocational Education, Our spelling and some general thoughts by Lex Roth, Luxembourgish Grammar by Françoise Schanen and Jacqui Zimmer, and others more.","helpfulness:2.078125,correctness:2.203125,coherence:3.640625,complexity:1.5078125,verbosity:1.546875"
+Are there examples of forced baptisms in Luxembourg?,"Yes, an example of forced baptism in Luxembourg is how many people are baptized as babies without being able to decide for themselves whether they want to join that religion or not.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are there examples of forced baptisms in Luxembourg? 
+
+###Response: Yes, an example of forced baptism in Luxembourg is how many people are baptized as babies, without being able to decide for themselves whether they want to join that religion or not.","helpfulness:0.75390625,correctness:0.7734375,coherence:3.484375,complexity:0.6796875,verbosity:0.65625"
+"Find out the year in which the novel ""Bridget Jones's Diary"" by Helen Fielding was first published.",1997,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Find out the year in which the novel ""Bridget Jones's Diary"" by Helen Fielding was first published. 
+
+###Response: 1997","helpfulness:3.421875,correctness:3.578125,coherence:3.90625,complexity:0.56640625,verbosity:0.24609375"
+What is the author's conclusion about the younger generation?,"The author believes that the younger generation tends to live by the motto: 'The main thing is to look right, and everything goes quickly', and that what is inside, what one later represents as an adult, and even more importantly, as a person, becomes secondary. is.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the author's conclusion about the younger generation? 
+
+###Response: The author believes that the young generation rather live by the motto: 'The main thing is to look right, and everything goes quickly', and that what is inside, what one later as an adult, and even more importantly, as Man represents, has become a substitute.","helpfulness:3.171875,correctness:3.1875,coherence:3.703125,complexity:1.28125,verbosity:1.2421875"
+What is the historical excursion that Commissioner Jennerwein makes in history?,"Commissioner Jennerwein makes a great historical trip to the 13th century. century, when a nobleman had to bring an important document to Rome and to the Werdefelser Land on behalf of the then German king.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the historical excursion that Commissioner Jennerwein makes in history? 
+
+###Response: Commissioner Jennerwein is making a great historical trip to the 13th century. century, when a nobleman had to bring an important document to Rome and to the Werdefelser Land on behalf of the then German king.","helpfulness:1.3203125,correctness:1.4921875,coherence:3.375,complexity:0.9765625,verbosity:0.67578125"
+What is the author's conclusion?,The author's conclusion is that the 18th article of the UN Civil Pact should be changed to make it clear that parents may not force their children into a religion. This should imply a ban on infant and child baptism.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the author's conclusion? 
+
+###Response: The author's conclusion is that the 18th article of the UN Civil Pact should be changed to make it clear that parents may not force their children into a religion. This should imply a ban on infant and child baptism.","helpfulness:2.234375,correctness:2.421875,coherence:3.8125,complexity:1.09375,verbosity:1.0078125"
+How did the agronomy engineer and minister Jemp Büchler advocate for place names?,"Mr. Büchler personally remembered someone who, at the time, was the only one in his agronomy course at the school master's school who knew what Dreifeldwirtschaft was, and he also immediately recognized him when he wrote for our place names on the signs at the Minister of Construction and Roads has come to beg.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How did the agronomy engineer and minister Jemp Büchler advocate for place names? 
+
+###Response: Mr. Büchler personally remembered someone who, at the time, was the only one in his agronomy course at the headmaster's school who knew what three-field farming was, and he also immediately recognized him, as he did for us The Minister of Construction and Roads has come to beg for local names on the signs.","helpfulness:0.51953125,correctness:0.64453125,coherence:2.765625,complexity:1.15625,verbosity:0.9375"
+What is the role of governments in the EU in the financial crisis?,The governments in the EU raised billions to save the system and prevent everything from collapsing.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the role of the governments in the EU in the financial crisis? 
+
+###Response: The governments in the EU raised billions to save the system and prevent everything from collapsing.","helpfulness:1.9375,correctness:2.0625,coherence:3.328125,complexity:0.828125,verbosity:0.2431640625"
+How did Sebastian Vettel finish the 2017 Montreal Grand Prix?,Sebastian Vettel finished the 2017 Montreal Grand Prix in 4th place.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How did Sebastian Vettel finish the 2017 Montreal Grand Prix? 
+
+###Response: Sebastian Vettel finished the 2017 Montreal Grand Prix in 4th place.","helpfulness:0.392578125,correctness:0.5078125,coherence:3.5625,complexity:0.23828125,verbosity:0.61328125"
+What was the context of the trial against the doctor that came to court in December 2012?,"The doctor was accused because he had prescribed methadone without conducting the necessary examinations, thereby contributing to the death of a 22-year-old prisoner.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the context of the trial against the doctor that came to court in December 2012? 
+
+###Response: The doctor was accused because he had prescribed methadone without doing the necessary examination, thereby contributing to the death of a 22-year-old prisoner.","helpfulness:2.734375,correctness:2.890625,coherence:3.8125,complexity:1.1171875,verbosity:0.65234375"
+"How was the game between the Cleveland Browns and the Detroit Lions on November 13, 2017?",The Browns lost in Detroit at the Lions 24:38.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How was the game between the Cleveland Browns and the Detroit Lions on November 13, 2017? 
+
+###Response: The Browns lost in Detroit at the Lions 24:38.","helpfulness:0.984375,correctness:0.81640625,coherence:3.3125,complexity:0.345703125,verbosity:0.361328125"
+What is the big surprise in the women's quarter-finals of the Grand Slam in Paris 2019?,The big surprise among the ladies in the quarter-finals of the Grand Slam in Paris 2019 is that Johanna Konta prevailed against Sloane Stephens and is in the semi-finals.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the big surprise in the women's quarter-finals of the Grand Slam in Paris 2019? 
+
+###Response: The big surprise among the women in the quarter-finals of the Grand Slam in Paris 2019 is that Johanna Konta prevailed against Sloane Stephens and is in the semi-finals.","helpfulness:3.109375,correctness:3.03125,coherence:3.890625,complexity:0.9765625,verbosity:0.8359375"
+What are the effects of our food choices according to Dr. Melanie Joy?,"The choice of food would have effects on our body, our mind and our world, and 65 billion animals would be slaughtered worldwide for their meat or other parts of the body every year.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the effects of our food choices according to Dr. Melanie Joy? 
+
+###Response: The choice of food would have effects on our body, our mind and our world, and 65 billion animals would be slaughtered per year worldwide for their meat or other parts of the body.","helpfulness:2.3125,correctness:2.40625,coherence:3.59375,complexity:1.0390625,verbosity:0.75390625"
+How common are ice days in Luxembourg?,"Ice days occur regularly in Luxembourg, but are not particularly common. Our weather station in Þlwen has an average of almost 22 ice days per year.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How common are ice days in Luxembourg? 
+
+###Response: Ice days occur regularly in Luxembourg, but are not particularly common. Our weather station in Þlwen has an average of almost 22 ice days per year.","helpfulness:1.703125,correctness:1.953125,coherence:3.625,complexity:0.90625,verbosity:0.578125"
+What is Agenda 21 and what are its goals?,"Agenda 21 is a program of the United Nations, which stated that the consideration of social components is foreseen in public projects. Their goals are, among other things, the satisfaction of the needs of today's population of third world and emerging countries, and also the promotion of the acceptance of projects by those concerned.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is Agenda 21 and what are its goals? 
+
+###Response: The Agenda 21 is a program of the United Nations, which stated that the consideration of social components is foreseen in public projects. Their goals are, among other things, the satisfaction of the needs of today's population of third world and emerging countries, and also the promotion of the acceptance of projects by those concerned.","helpfulness:2.515625,correctness:2.65625,coherence:3.5625,complexity:1.4140625,verbosity:1.0234375"
+WHAT IS THE PROBLEM WITH THE BLACKBERRY PHONES IN INDIA THAT APPEARED IN 2010?,"In India, they have a problem with devices from BLACKBERRY, because the company RESEARCH IN MOTION (RIM) does not have enough time to get a handle on the problem with the encrypted transmission, which respects the privacy of the customer through encryption.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the problem with the BLACKBERRY phones in India that appeared in 2010? 
+
+###Response: In India they have a problem with devices from BLACKBERRY because the company RESEARCH IN MOTION (RIM) does not have enough time to get a handle on the problem with the encrypted transmission, which violates the privacy of the customer through respects the encryption.","helpfulness:1.8046875,correctness:1.6953125,coherence:2.953125,complexity:1.265625,verbosity:0.91796875"
+What was the result of the match between Rued and Niederkäerjeng last weekend?,Rued was able to prevail with 6:0 against Niderkäerjeng.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the result of the match between Rued and Niederkäerjeng last weekend? 
+
+###Response: Rued was able to prevail with 6:0 against Niderkäerjeng.","helpfulness:0.734375,correctness:0.78125,coherence:3.515625,complexity:0.52734375,verbosity:0.365234375"
+What is the voting system in the United States? Explain to me how it works.,"The electoral system in the United States is structured in such a way that the voters do not elect the president directly, but electors, who then vote on the new president in a meeting in December. Each federal state has a certain number of electors who are elected by the voters. The candidate who has the most votes is elected president.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the electoral system in the United States? Explain to me how it works. 
+
+###Response: The electoral system in the United States is structured in such a way that the voters do not choose the president directly, but electors, who then vote on the new president in a meeting in December. Each federal state has a certain number of electors who are elected by the voters. The candidate who has the most votes is elected president.","helpfulness:2.453125,correctness:2.4375,coherence:3.65625,complexity:1.4296875,verbosity:1.0390625"
+What can you do if you are bullied on the Internet?,"If someone is being bullied on the internet, you can report this on the website. It is also important to know the machines you are working with and to regularly update your anti-virus program.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What can you do if you are bullied on the Internet? 
+
+###Response: If someone is being bullied on the internet, you can report this on the website. It is also important to know the machines you are working with and to regularly update your anti-virus program.","helpfulness:1.109375,correctness:1.296875,coherence:3.359375,complexity:0.7890625,verbosity:0.8125"
+"Explain the context of the article about election posters in Luxembourg, which was published on May 14, 2009.",The article discusses the election posters of the LSAP and the CSV in the context of the Luxembourg parliamentary elections 2009. The author analyzes the symbolism and the messages on the posters and criticizes the lack of creativity and the insufficient representation of the political content.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Explain the context of the article about election posters in Luxembourg, which was published on May 14, 2009. 
+
+###Response: The article discusses the election posters of the LSAP and the CSV in the context of the Luxembourg parliamentary elections 2009. The author analyzes the symbolism and the messages on the posters and criticizes the lack of creativity and the insufficient representation of the political content.","helpfulness:2.546875,correctness:2.828125,coherence:3.734375,complexity:1.359375,verbosity:1.0859375"
+"What is the subject in the Chamber Health Committee on January 19, 2016?",The new hospital plan.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the subject in the Chamber Health Committee on January 19, 2016? 
+
+###Response: The new hospital plan.","helpfulness:1.15625,correctness:1.0703125,coherence:3.375,complexity:0.43359375,verbosity:0.083984375"
+What is the status of the Luxembourgish language at UNESCO?,"The status of the Luxembourgish language at UNESCO is ""vulnerable"", which means that the language is in danger of becoming extinct in the long term.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the status of the Luxembourgish language at UNESCO? 
+
+###Response: The status of the Luxembourgish language at UNESCO is ""vulnerable"", which means that the language is in danger of dying out in the long term.","helpfulness:0.875,correctness:1.078125,coherence:3.546875,complexity:0.87890625,verbosity:0.5234375"
+What are the major unions in Luxembourg against project 5611?,"The major unions sounded the alarm because they say that they had been passed over by the Minister of Labor in important matters of detail in the tripartite. They are against the project 5611, because it is saved at the expense of the unemployed, without a guarantee that the young people will receive permanent employment or a place from the ADEM instead of the unemployment money.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the major unions in Luxembourg against project 5611? 
+
+###Response: The major trade unions sounded the alarm, because they say that they had been passed over by the Minister of Labor in important matters of detail in the tripartite. They are against the project 5611, because it is saved at the expense of the unemployed, without a guarantee that the young people will receive permanent employment or a place from the ADEM instead of the unemployment money.","helpfulness:2.734375,correctness:2.828125,coherence:3.640625,complexity:1.25,verbosity:1.0234375"
+What is the history of the town of Casamicciola Terme on the island of Ischia?,"Casamicciola Terme is a small town with around 8,000 inhabitants. In 2017, two people were killed in an earthquake and at the end of the 19th century Casamicciola was completely destroyed by a strong earthquake.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the history of the town of Casamicciola Terme on the island of Ischia? 
+
+###Response: Casamicciola Terme is a small town with around 8,000 inhabitants. In 2017, two people were killed in an earthquake and at the end of the 19th century Casamicciola was completely destroyed by a strong earthquake.","helpfulness:2.40625,correctness:2.578125,coherence:3.578125,complexity:1.046875,verbosity:0.8203125"
+"Has the French government made the official decision to isolate infected people and contacts for only 7 more days, as of 2020-09-08?","The French government has not yet made the official decision, but announced on Monday that infected people and contacts will be isolated for 7 days only.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Has the French government made the official decision to isolate infected people and contacts for only 7 more days, as of 2020-09-08? 
+
+###Response: The French government has not yet made the official decision, but announced on Monday that infected people and contacts will be isolated for 7 days only.","helpfulness:2.296875,correctness:2.640625,coherence:3.546875,complexity:0.93359375,verbosity:0.64453125"
+What was the number 1 album of the day on 28 November 1987 in the UK?,"The number 1 album of the day on November 28, 1987 in Great Britain was 'When You Need Somebody' by Rick Astley.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the number 1 album of the day on November 28, 1987 in Great Britain? 
+
+###Response: The number 1 album of the day on November 28, 1987 in Great Britain was 'When You Need Somebody' by Rick Astley.","helpfulness:0.54296875,correctness:0.5546875,coherence:3.40625,complexity:0.77734375,verbosity:0.69140625"
+How many people were injured in the car accident between Béiweng and Fenteng?,One person was injured,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many people were injured in the car accident between Béiweng and Fenteng? 
+
+###Response: One person was injured","helpfulness:1.0390625,correctness:0.75390625,coherence:3.296875,complexity:0.267578125,verbosity:0.08935546875"
+What is the reason why the Sachsen rally was cancelled?,"The Sachsen-Rallye was punished because those responsible for the Sachsen-Rallye decided to register their race for the DRS, and it is not possible to register a rally for the DRM and for the DRS.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the reason why the Sachsen rally was banned? 
+
+###Response: The Sachsen-Rallye was punished, because those responsible for the Saxony-Rallye decided to register their race for the DRS, and it is not possible to register a rally for the DRM and for the DRS.","helpfulness:2.1875,correctness:2.328125,coherence:3.390625,complexity:1.1640625,verbosity:0.97265625"
+Who is the mayor of LSAP Kiel for the municipal elections 2017?,The mayor is Guy Scholtes.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Who is the mayor of LSAP Kiel for the municipal elections 2017? 
+
+###Response: The mayor is Guy Scholtes.","helpfulness:1.0078125,correctness:0.9921875,coherence:3.515625,complexity:0.373046875,verbosity:0.1943359375"
+What are the new rules for the stability pact?,"Included in the package are new rules for the stability pact - even if the old pact was not adhered to, a new one would at least have a signaling effect. Until now, the states were used to being able to react on their own, and only for themselves, to unforeseen events in the economy.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What are the new rules for the stability pact? 
+
+###Response: Included in the package are new rules for the stability pact - even if the old pact was not adhered to, a new one would at least have a signaling effect. Until now, the states were used to being able to react on their own, and only for themselves, to unforeseen events in the economy.","helpfulness:1.1953125,correctness:1.4921875,coherence:2.953125,complexity:1.1484375,verbosity:0.8984375"
+What had the accused declared?,"The accused had declared that he had not made sexist statements; rather, his remarks would have been meant to be mostly kind.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What did the accused declare? 
+
+###Response: The accused had declared that he had not made sexist statements; rather, his remarks would have been meant to be mostly kind.","helpfulness:2.890625,correctness:3.1875,coherence:3.921875,complexity:0.76171875,verbosity:0.6953125"
+Has overweight among young people in Luxembourg increased in the last 10 years?,"Yes, in the last 10 years there has been a slight increase in overweight children, but there would not be an exponential increase.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Has overweight among young people in Luxembourg increased in the last 10 years? 
+
+###Response: Yes, in the last 10 years there has been a slight increase in overweight children, but there would not be an exponential increase.","helpfulness:2.390625,correctness:2.453125,coherence:3.78125,complexity:0.890625,verbosity:0.5625"
+"What is the reason why Mike Pompeo questioned the nuclear deal with Iran when he was in Saudi Arabia on April 29, 2018?","Mike Pompeo questioned the nuclear deal with Iran, because it would not provide the security that Iran would never get a nuclear weapon.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the reason why Mike Pompeo questioned the nuclear deal with Iran when he was in Saudi Arabia on April 29, 2018? 
+
+###Response: Mike Pompeo questioned the nuclear deal with Iran, because it would not provide the assurance that Iran would never get a nuclear weapon.","helpfulness:2.21875,correctness:2.46875,coherence:3.6875,complexity:1.09375,verbosity:0.62890625"
+How many games could the Mini SNES offer?,"The Mini SNES should offer a lot of games, such as the well-known Super Metroid, Super Mario Kart, Super Mario World or even Earthbound.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many games could the Mini SNES offer? 
+
+###Response: The Mini SNES should offer a lot of games, such as the well-known Super Metroid, Super Mario Kart, Super Mario World or even Earthbound.","helpfulness:1.2265625,correctness:1.265625,coherence:3.328125,complexity:0.55078125,verbosity:0.5703125"
+Are the Luxembourg metal bands that released a strong album in 2014.,"Arkaeon, Cosmogon, Dreadnought, Heaven's Scum, Inhuman Rampage, Miles to Perdition, Mindpatrol, Retrace My Fragments and Subblind.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are the Luxembourg metal bands that released a strong album in 2014. 
+
+###Response: Arkaeon, Cosmogon, Dreadnought, Heaven's Scum, Inhuman Rampage, Miles to Perdition, Mindpatrol, Retrace My Fragments and Subblind.","helpfulness:2.375,correctness:2.5,coherence:3.671875,complexity:1.0234375,verbosity:0.75"
+When did the council decide not to look into the files to see who owns which building?,2 years ago when it started to be discussed.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did the council decide not to look into the files to see who owns which building? 
+
+###Response: 2 years ago, when it started to be discussed.","helpfulness:1.1015625,correctness:1.109375,coherence:3.296875,complexity:0.44921875,verbosity:0.3125"
+What is Angela Merkel's reaction to the situation in Belarus?,Angela Merkel said that the disputed presidential elections were neither fair nor free. It shows solidarity with the people and Aleksander Lukashenko is called to dialogue.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is Angela Merkel's reaction to the situation in Belarus? 
+
+###Response: Angela Merkel said that the disputed presidential elections were neither fair nor free. It shows solidarity with the people and Aleksander Lukashenko is called to dialogue.","helpfulness:3.0625,correctness:3.171875,coherence:3.921875,complexity:1.0078125,verbosity:0.62890625"
+What is the context of the election for the chamber des salariés in 2019?,"The elections for the Chamber of Salaries were held in 2019 and the results should be made official on April 2, 2019.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the context of the election for the chamber des salariés in 2019? 
+
+###Response: The elections for the Chamber of Salaries were held in 2019 and the results should be made official on April 2, 2019.","helpfulness:1.53125,correctness:1.8125,coherence:3.28125,complexity:0.78125,verbosity:0.451171875"
+"How many fires are currently reported in France on July 16, 2022?","There is at least a small calm in one of two fires, but the fire at Landiras continues to be out of control.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many fires are there currently in France that were reported on July 16, 2022? 
+
+###Response: At least one of the two fires has calmed down, but the fire at Landiras is still out of control.","helpfulness:0.7421875,correctness:1.0390625,coherence:3.265625,complexity:0.80859375,verbosity:0.453125"
+How long did the man deal with such animals and what happened to him?,"The man has been handling such animals since he was 12 years old. He had already been bitten 3 times by a cobra, a mamba and a lance otter.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How long did the man handle such animals and what happened to him? 
+
+###Response: The man has been handling such animals since he was 12 years old. He had already been bitten 3 times by a cobra, a mamba and a lance otter.","helpfulness:1.5703125,correctness:1.6796875,coherence:3.53125,complexity:0.65234375,verbosity:0.765625"
+What is the reason why Facebook and Twitter are against disinformation from Donald Trump?,"The reason is that Trump has made false statements that violate the rules of online platforms, and therefore dangerous misinformation is being spread.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the reason why Facebook and Twitter oppose disinformation from Donald Trump? 
+
+###Response: The reason is that Trump has made false statements that violate the rules of online platforms, and therefore dangerous misinformation is being spread.","helpfulness:2.625,correctness:2.625,coherence:3.71875,complexity:0.87109375,verbosity:0.6015625"
+How did Mary react when she found Jesus in the temple?,"Mary reacted with concern and fear when she found Jesus in the temple, but she also learned to let him go and follow his divine plan.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How did Mary react when she found Jesus in the temple? 
+
+###Response: Mary reacted with concern and fear when she found Jesus in the temple, but she also learned to let him go and follow his divine plan.","helpfulness:2.640625,correctness:2.828125,coherence:3.78125,complexity:0.97265625,verbosity:0.796875"
+"How did Lars Bender play in the Denmark-Germany match on June 17, 2012?",Lars Bender has in the 80.' hit after Özil's pass from 12 meters to make it 2:1 for Germany.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How did Lars Bender play in the Denmark-Germany game on June 17, 2012? 
+
+###Response: Lars Bender has in the 80.' hit after Özil's pass from 12 meters to make it 2:1 for Germany.","helpfulness:2.359375,correctness:2.46875,coherence:3.640625,complexity:1.046875,verbosity:0.8515625"
+What is Erik Krier's opinion about the development of the Internet?,"Erik Krier does not see the development of the Internet as a problem. He believes that informing and setting up fewer filters and blocks are important, and that the freedom of the Internet is endangered if too many filters and blocks are set up.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is Erik Krier's opinion about the development of the Internet? 
+
+###Response: Erik Krier does not see the development of the Internet as a problem. He believes that informing and setting up fewer filters and blocks are important, and that the freedom of the Internet is endangered if too many filters and blocks are set up.","helpfulness:2.171875,correctness:2.09375,coherence:3.640625,complexity:1.2421875,verbosity:0.96484375"
+What is the date of the news article that talks about illegal gambling in Luxembourg?,"The date of the news article is August 6, 2019.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the date of the news article that talks about illegal gambling in Luxembourg? 
+
+###Response: The date of the news article is August 6, 2019.","helpfulness:0.98828125,correctness:1.125,coherence:3.875,complexity:0.404296875,verbosity:0.3671875"
+"What was the highest speed that a driver reached on June 18, 2009 in Lamadeleine?","French driver reached 104 km/h in Lamadeleine, although only 50 km/h is allowed there.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the highest speed that a driver reached on June 18, 2009 in Lamadeleine? 
+
+###Response: A French driver reached 104 km/h in Lamadeleine, although only 50 km/h is allowed there.","helpfulness:1.2734375,correctness:1.4296875,coherence:3.671875,complexity:0.75390625,verbosity:0.69921875"
+Give me the list of the products that are affected in Luxembourg.,The list of products affected in Luxembourg can be found on the website of the Food Safety Authority.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the list of products that are affected in Luxembourg. 
+
+###Response: You can find the list of products affected in Luxembourg on the website of the Food Safety Authority.","helpfulness:1.21875,correctness:1.28125,coherence:3.5,complexity:0.65625,verbosity:0.388671875"
+What is the largest fair of its kind in the world that takes place every year in Los Angeles?,"The largest fair in its genre in the world is the Electronic Entertainment Expo, short E3.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the largest fair of its kind in the world that takes place every year in Los Angeles? 
+
+###Response: The largest fair in its genre in the world is the Electronic Entertainment Expo, short E3.","helpfulness:0.90625,correctness:1.078125,coherence:3.515625,complexity:0.65234375,verbosity:0.515625"
+What is the difference between the Novavax vaccine and the other approved vaccines?,"The Novavax vaccine is a protein vaccine, which unlike Biontech/Pfizer, Astrazeneca, Moderna and Johnson & Johnsen is neither a so-called mRNA nor a vector vaccine.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the difference between the Novavax vaccine and the other approved vaccines? 
+
+###Response: The Novavax vaccine is a protein vaccine, which unlike Biontech/Pfizer, Astrazeneca, Moderna and Johnson & Johnsen is neither a so-called mRNA nor a vector vaccine.","helpfulness:2.25,correctness:2.265625,coherence:3.484375,complexity:1.28125,verbosity:0.474609375"
+What was the 'Given report'?,"The 'Geiben Report' was a document created by the young officer and later BMG chief Bernard Geiben, in which he stated that the security forces in Luxembourg were overstretched due to the increase in violence in the country.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the 'Geiben report'? 
+
+###Response: The 'Geiben report' was a document created by the young officer and later BMG chief Bernard Geiben, in which he stated that the security forces in Luxembourg were overstretched by the increase in violence in the country.","helpfulness:0.7421875,correctness:0.41015625,coherence:3.15625,complexity:0.89453125,verbosity:0.9765625"
+"What was the result of the game between the Buccaneers and the Bears on September 18, 2017?",The Buccaneers won their game 29:7 against the Bears.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the result of the game between the Buccaneers and the Bears on September 18, 2017? 
+
+###Response: The Buccaneers won their game 29:7 against the Bears.","helpfulness:3.296875,correctness:3.15625,coherence:3.796875,complexity:0.54296875,verbosity:0.58203125"
+What was the context of the trial against the other man?,"The trial took place at the State Court on November 10, 2016. The other man was sentenced to 4 months in prison and a fine of €500 for xenophobic comments on Facebook.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the context of the trial against the other man? 
+
+###Response: The trial was held at the State Court on November 10, 2016. The other man was sentenced to 4 months in prison and a fine of €500 for xenophobic comments on Facebook.","helpfulness:1.5234375,correctness:1.5703125,coherence:3.5,complexity:0.890625,verbosity:0.8984375"
+How many high schools are involved in the pilot project 'Digital Classroom Luxembourg'?,There are 7 buildings participating in the pilot project 'Digital Classroom Luxembourg'.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many high schools are involved in the pilot project 'Digital Classroom Luxembourg'? 
+
+###Response: There are 7 buildings participating in the pilot project 'Digital Classroom Luxembourg'.","helpfulness:1.3203125,correctness:0.8828125,coherence:3.234375,complexity:0.6640625,verbosity:0.271484375"
+When did Manon Durbach wear the Luxembourgish flag?,Manon Durbach carried the Luxembourg flag on 29 May 2017 at the opening ceremony of the small countries in Serravalle and San Marino.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When did Manon Durbach wear the Luxembourgish flag? 
+
+###Response: Manon Durbach carried the Luxembourg flag on 29 May 2017 at the opening ceremony of the small countries in Serravalle and San Marino.","helpfulness:2.453125,correctness:2.5625,coherence:3.84375,complexity:0.9453125,verbosity:0.71484375"
+"What is the reason for the investigation against an actor from the care sector who was arrested on February 22, 2023?","The reason for the investigation is a number of denunciations to the relevant anti-fraud service of the health fund, which noticed irregularities in the invoicing of providers of care services for people at home.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the reason for the investigation against an actor from the care sector who was arrested on February 22, 2023? 
+
+###Response: The reason for the investigation are a number of denunciations to the relevant anti-fraud service of the health fund, which noticed irregularities in the invoicing of providers of care services for people at home.","helpfulness:2.640625,correctness:2.8125,coherence:3.734375,complexity:1.4140625,verbosity:0.67578125"
+Are there major problems at the level of the funds themselves in Luxembourg?,"No, at the level of the funds themselves, no major problems have arisen in Luxembourg. Only 7 funds have been seriously affected, directly or indirectly, by the subprime crisis, and are currently suspended.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are there major problems at the level of the funds themselves in Luxembourg? 
+
+###Response: No, no major problems have arisen in Luxembourg at the level of the funds themselves. Only 7 funds have been seriously affected, directly or indirectly, by the subprime crisis, and are currently suspended.","helpfulness:2.359375,correctness:2.4375,coherence:3.484375,complexity:1.0859375,verbosity:0.5234375"
+When will the Trophée Francophone prizes be awarded?,"On December 3, 2016","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When will the Trophée Francophone prizes be awarded? 
+
+###Response: December 3, 2016","helpfulness:1.1875,correctness:1.2421875,coherence:3.453125,complexity:0.404296875,verbosity:0.042724609375"
+Enter the top 3 of the Eurovision Song Contest 2012.,"The top 3 were: 1. Sweden (Loreen) with 372 points, 2. Russia (Buranowski Babuschki) with 259 points, 3. Serbia (Zeljko Joksimovic) with 214 points.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Find the top 3 of the Eurovision Song Contest 2012. 
+
+###Response: The top 3 were: 1. Sweden (Loreen) with 372 points, 2. Russia (Buranowski Babuschki) with 259 points, 3. Serbia ( Zeljko Joksimovic) with 214 points.","helpfulness:3.421875,correctness:3.375,coherence:3.96875,complexity:0.8125,verbosity:1.0"
+How many hectares of forest have burned in Portugal since the beginning of 2022?,"Since the beginning of 2022, more than 30,000 hectares of forest have burned in Portugal.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: How many hectares of forest have burned in Portugal since the beginning of 2022? 
+
+###Response: Since the beginning of 2022, more than 30,000 hectares of forest have burned in Portugal.","helpfulness:2.5625,correctness:2.625,coherence:3.84375,complexity:0.75,verbosity:0.57421875"
+Give some details about the demonstrations that took place after the arrest of Marc Dutroux.,"On October 22, 1996, the streets of Brussels were black with people. Over 300,000 people had gathered for a marche blanche.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give some details about the demonstrations that took place after the arrest of Marc Dutroux. 
+
+###Response: On October 22, 1996, the streets of Brussels were black with people. Over 300,000 people had gathered for a marche blanche.","helpfulness:1.0078125,correctness:1.203125,coherence:3.265625,complexity:0.55859375,verbosity:0.1484375"
+"What was the referendum of the Nazis on October 10, 1941?","The referendum was an attempt by the Nazis to go after the Luxembourgers, by trying to go after the Luxembourgers with just that, and got a fat 'in the box'.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the referendum of the Nazis on October 10, 1941? 
+
+###Response: The referendum was an attempt by the Nazis to go after the Luxembourgers, by trying to go after the Luxembourgers with just that, and got a fat 'in the box'.","helpfulness:0.240234375,correctness:0.494140625,coherence:2.640625,complexity:0.90625,verbosity:0.53515625"
+Give me the name of the first solo album of ROB THOMAS and its release year.,The first solo album of ROB THOMAS is SOMETHING TO BE and was released in 2005.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Give me the name of the first solo album by ROB THOMAS and its release year. 
+
+###Response: The first solo album of ROB THOMAS is SOMETHING TO BE and was released in 2005.","helpfulness:3.71875,correctness:3.78125,coherence:3.875,complexity:0.7421875,verbosity:0.87109375"
+What is the plan for the future of the project?,"In a second phase, another 6,000 devices should be added.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the plan for the future of the project? 
+
+###Response: In a second phase, another 6,000 devices should be added.","helpfulness:1.8984375,correctness:1.90625,coherence:3.328125,complexity:0.78125,verbosity:0.263671875"
+What is the opinion of the initiative Nee2015-Wee2050 about the article by Ben Fayot?,The Nee2015-Wee2050 initiative is of the opinion that Ben Fayot's article is unrealistic and that the Luxembourgish language is in danger if political measures are not taken.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the opinion of the initiative Nee2015-Wee2050 about the article by Ben Fayot? 
+
+###Response: The initiative Nee2015-Wee2050 is of the opinion that the article by Ben Fayot is unrealistic and that the Luxembourgish language is in danger if political measures are not taken.","helpfulness:2.921875,correctness:2.953125,coherence:3.703125,complexity:1.2734375,verbosity:0.94140625"
+Are there other opportunities to become politically active?,"Yes, there are other opportunities to become politically active. For young people, there are political youth organizations more or less independent of the parties, whose candidates can later appear on the lists of the affiliated parties.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Are there other opportunities to become politically active? 
+
+###Response: Yes, there are also other opportunities to become politically active. For young people, there are political youth organizations more or less independent of the parties, whose candidates can later appear on the lists of the affiliated parties.","helpfulness:2.328125,correctness:2.53125,coherence:3.578125,complexity:0.93359375,verbosity:0.53515625"
+When and where does the City Night Bus CN1 go?,"The City Night Bus CN1 goes from the Upper Town via Hollerech, Gare, Clausen, Neidorf and to the Zens.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: When and where does the City Night Bus CN1 go? 
+
+###Response: The City Night Bus CN1 goes from the Upper Town via Hollerech, Gare, Clausen, Neidorf and to the Zens.","helpfulness:0.94140625,correctness:1.0390625,coherence:3.21875,complexity:0.51171875,verbosity:0.337890625"
+"What was the main topic of the consultations of the JAI Council in Brussels on May 19, 2017?","The main topic was the refugee issue, especially the European asylum policy.","The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What was the main topic of the consultations of the Council JAI in Brussels on May 19, 2017? 
+
+###Response: The main topic was the refugee issue, especially the European asylum policy.","helpfulness:2.671875,correctness:2.671875,coherence:3.8125,complexity:0.66796875,verbosity:0.61328125"
+What is the role of the hereditary grand ducal couple in the monarchy?,We really live in very complicated times and you have the feeling that you are going from one crisis to another and you also feel how much suffering there is in society and it is up to us to be even closer to the people .,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: What is the role of the hereditary grand ducal couple in the monarchy? 
+
+###Response: We really live in very complicated times and one has the feeling that one goes from one crisis to another and there one also feels how much suffering there is in society and it is even closer to us to be with the people.","helpfulness:1.171875,correctness:1.2734375,coherence:3.28125,complexity:0.6953125,verbosity:0.81640625"
+Who won the cup in basketball in 2004?,The Musel Pikes won the cup in basketball in 2004.,"The following provides an instruction in the form of a question. Give a response that answers the question accurately. 
+
+###Instruction: Who won the basketball cup in 2004? 
+
+###Response: The Mosel Pikes won the cup in basketball in 2004.","helpfulness:0.9921875,correctness:0.83984375,coherence:3.484375,complexity:0.38671875,verbosity:0.259765625"
